@@ -1,0 +1,101 @@
+# ========================================
+# Root
+# ========================================
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+.env.*.local
+
+# ========================================
+# Backend (MCP Server)
+# ========================================
+
+# Python
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/*.so
+backend/.Python
+backend/venv/
+backend/env/
+backend/ENV/
+backend/.venv
+backend/pip-log.txt
+backend/pip-delete-this-directory.txt
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/.coverage
+backend/htmlcov/
+backend/*.egg-info/
+backend/dist/
+backend/build/
+
+# Node.js (if using TypeScript MCP)
+backend/node_modules/
+backend/dist/
+backend/.turbo
+
+# ========================================
+# Frontend (Expo Mobile App)
+# ========================================
+
+# Expo
+frontend/.expo/
+frontend/.expo-shared/
+frontend/dist/
+
+# React Native / Expo
+frontend/node_modules/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Metro bundler
+frontend/.metro-health-check*
+
+# macOS
+frontend/.DS_Store
+
+# Testing
+frontend/coverage/
+frontend/__tests__/coverage/
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# ========================================
+# Data & Scripts
+# ========================================
+data/cache/
+data/raw/*.json
+data/processed/*.json
+scripts/temp/
+
+# Keep data structure but ignore large files
+!data/.gitkeep
+!scripts/.gitkeep
+
+# ========================================
+# IDE
+# ========================================
+.vscode/settings.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ========================================
+# API Keys & Secrets
+# ========================================
+**/.env
+**/.env.local
+**/.env.development
+**/.env.production
+**/secrets.json
+backend/config/secrets.py
+frontend/config/secrets.ts
