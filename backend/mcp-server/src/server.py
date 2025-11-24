@@ -30,12 +30,18 @@ from utils.scoring import (
 )
 from utils.tavily_enrichment import enrich_poi_live
 
+# OpenAI for semantic search
+from openai import OpenAI
+
 
 # Initialize server
 server = Server("nyc-poi-concierge")
 
 # Global MongoDB client
 mongo_client: Optional[MongoDBClient] = None
+
+# Global OpenAI client for semantic search
+openai_client: Optional[OpenAI] = None
 
 
 @server.list_resources()
@@ -233,6 +239,50 @@ async def handle_list_tools() -> list[types.Tool]:
                 "required": ["poi_name", "poi_address"],
             },
         ),
+        types.Tool(
+            name="search_by_vibe",
+            description="""Search for POIs using natural language vibe descriptions with semantic search.
+            
+            Uses MongoDB Atlas Vector Search with OpenAI embeddings to find restaurants
+            that match a natural language description of mood, ambiance, or experience.
+            
+            Examples:
+            - "romantic and quiet with amazing views"
+            - "lively spot for celebrating with friends"
+            - "cozy rainy day comfort food"
+            - "upscale business lunch atmosphere"
+            - "trendy instagram-worthy brunch spot"
+            
+            Perfect for: When users describe what they're looking for in vibes/mood rather than
+            specific cuisines or locations. Complements location-based search with semantic matching.
+            
+            Note: Requires MongoDB Atlas Vector Search index to be configured.
+            """,
+            inputSchema={
+                "type": "object",
+                "properties": {
+                    "vibe_query": {
+                        "type": "string",
+                        "description": "Natural language description of desired vibe/mood/ambiance",
+                    },
+                    "limit": {
+                        "type": "integer",
+                        "description": "Maximum number of results (default: 10)",
+                        "default": 10,
+                    },
+                    "min_score": {
+                        "type": "number",
+                        "description": "Minimum similarity score 0.0-1.0 (default: 0.7)",
+                        "default": 0.7,
+                    },
+                    "category": {
+                        "type": "string",
+                        "description": "Optional category filter: fine-dining, casual-dining, bars-cocktails",
+                    },
+                },
+                "required": ["vibe_query"],
+            },
+        ),
     ]
 
 
@@ -251,6 +301,8 @@ async def handle_call_tool(
         return await contextual_recommendations_tool(arguments or {})
     elif name == "enrich_poi_live":
         return await enrich_poi_live_tool(arguments or {})
+    elif name == "search_by_vibe":
+        return await search_by_vibe_tool(arguments or {})
     else:
         raise ValueError(f"Unknown tool: {name}")
 
@@ -518,6 +570,151 @@ async def enrich_poi_live_tool(args: Dict[str, Any]) -> list[types.TextContent]:
         return [types.TextContent(type="text", text=error_text)]
 
 
+async def search_by_vibe_tool(args: Dict[str, Any]) -> list[types.TextContent]:
+    """Execute semantic search using MongoDB vector search.
+    
+    Converts natural language vibe query to embedding vector and finds
+    POIs with similar vibes using cosine similarity.
+    """
+    
+    vibe_query = args["vibe_query"]
+    limit = args.get("limit", 10)
+    min_score = args.get("min_score", 0.7)
+    category = args.get("category")
+    
+    if not openai_client:
+        return [types.TextContent(
+            type="text",
+            text="❌ OpenAI client not initialized. Vector search requires OpenAI API configuration."
+        )]
+    
+    try:
+        # Generate embedding for the vibe query
+        response = openai_client.embeddings.create(
+            model=config.openai.embedding_model,
+            input=vibe_query,
+            dimensions=config.openai.embedding_dimensions
+        )
+        
+        query_vector = response.data[0].embedding
+        
+        # Build MongoDB vector search aggregation pipeline
+        pipeline = [
+            {
+                "$vectorSearch": {
+                    "index": "vector_index",
+                    "path": "embedding",
+                    "queryVector": query_vector,
+                    "numCandidates": 100,  # Consider top 100 candidates
+                    "limit": limit * 2  # Get more for post-filtering
+                }
+            },
+            {
+                "$addFields": {
+                    "similarity_score": {"$meta": "vectorSearchScore"}
+                }
+            },
+            {
+                "$match": {
+                    "similarity_score": {"$gte": min_score}
+                }
+            }
+        ]
+        
+        # Add category filter if specified
+        if category:
+            pipeline.append({
+                "$match": {"category": category}
+            })
+        
+        # Project fields and limit
+        pipeline.extend([
+            {
+                "$project": {
+                    "name": 1,
+                    "category": 1,
+                    "subcategories": 1,
+                    "address": 1,
+                    "prestige": 1,
+                    "experience": 1,
+                    "contact": 1,
+                    "best_for": 1,
+                    "embedding_text": 1,
+                    "similarity_score": 1
+                }
+            },
+            {"$sort": {"similarity_score": -1}},
+            {"$limit": limit}
+        ])
+        
+        # Execute vector search
+        results = list(mongo_client.pois.aggregate(pipeline))
+        
+        if not results:
+            return [types.TextContent(
+                type="text",
+                text=f"No POIs found matching the vibe: '{vibe_query}'\n\n"
+                     f"Try:\n"
+                     f"- Lowering min_score (current: {min_score})\n"
+                     f"- Using different keywords\n"
+                     f"- Removing category filter\n\n"
+                     f"Note: This requires MongoDB Atlas Vector Search index to be configured."
+            )]
+        
+        # Build response
+        response_text = f"🔮 **Semantic Search Results**\n\n"
+        response_text += f"🎯 Vibe Query: \"{vibe_query}\"\n"
+        response_text += f"📊 Found {len(results)} match(es) (min score: {min_score})\n\n"
+        response_text += "---\n\n"
+        
+        for i, poi in enumerate(results, 1):
+            stars = poi.get("prestige", {}).get("michelin_stars")
+            stars_str = f" {'⭐' * stars}" if stars else ""
+            score = poi.get("similarity_score", 0)
+            
+            response_text += f"**{i}. {poi['name']}**{stars_str}\n"
+            response_text += f"   📍 {poi.get('address', {}).get('neighborhood', 'N/A')}\n"
+            response_text += f"   🎯 Similarity: {score:.2f} | "
+            response_text += f"Prestige: {poi.get('prestige', {}).get('score', 0)}\n"
+            response_text += f"   💰 {poi.get('experience', {}).get('price_range', 'N/A')} · "
+            
+            # Category and cuisines
+            cat = poi.get('category', 'restaurant')
+            subcats = poi.get('subcategories', [])
+            if subcats:
+                response_text += f"{', '.join(subcats[:2])}\n"
+            else:
+                response_text += f"{cat}\n"
+            
+            # Why it matches
+            ambiance = poi.get('experience', {}).get('ambiance', [])
+            if ambiance:
+                response_text += f"   ✨ Ambiance: {', '.join(ambiance[:3])}\n"
+            
+            occasions = poi.get('best_for', {}).get('occasions', [])
+            if occasions:
+                response_text += f"   🎉 Best for: {', '.join(occasions[:2])}\n"
+            
+            # Signature dishes
+            dishes = poi.get('experience', {}).get('signature_dishes', [])
+            if dishes:
+                response_text += f"   🍽️ Signature: {', '.join(dishes[:2])}\n"
+            
+            response_text += f"   📞 {poi.get('contact', {}).get('phone', 'N/A')}\n\n"
+        
+        return [types.TextContent(type="text", text=response_text)]
+        
+    except Exception as e:
+        error_text = f"❌ Vector search failed: {str(e)}\n\n"
+        error_text += "Common issues:\n"
+        error_text += "1. Vector search index not created in MongoDB Atlas\n"
+        error_text += "2. Index name must be 'vector_index'\n"
+        error_text += "3. Embeddings not generated for POIs\n"
+        error_text += "\nSee backend/mcp-server/VECTOR_SEARCH_SETUP.md for setup guide."
+        return [types.TextContent(type="text", text=error_text)]
+
+
+
 async def init_mongo() -> bool:
     """Initialize MongoDB connection"""
     global mongo_client
@@ -538,10 +735,28 @@ async def init_mongo() -> bool:
     return True
 
 
+async def init_openai() -> bool:
+    """Initialize OpenAI client for semantic search"""
+    global openai_client
+    
+    try:
+        print("🤖 Initializing OpenAI client...", file=sys.stderr)
+        openai_client = OpenAI(api_key=config.openai.api_key)
+        print(f"✅ OpenAI initialized: {config.openai.embedding_model}", file=sys.stderr)
+        return True
+    except Exception as e:
+        print(f"⚠️  OpenAI initialization failed: {e}", file=sys.stderr)
+        print("   Vector search will be unavailable.", file=sys.stderr)
+        return False
+
+
 async def main():
     """Main server entry point"""
     if not await init_mongo():
         sys.exit(1)
+    
+    # Initialize OpenAI (optional - server works without it)
+    await init_openai()
     
     print("\n🚀 NYC POI Concierge MCP Server starting...", file=sys.stderr)
     print("="*60, file=sys.stderr)
