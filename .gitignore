@@ -15,24 +15,24 @@ yarn-error.log*
 # ========================================
 
 # Python
-backend/__pycache__/
-backend/*.py[cod]
-backend/*$py.class
-backend/*.so
-backend/.Python
-backend/venv/
-backend/env/
-backend/ENV/
-backend/.venv
-backend/pip-log.txt
-backend/pip-delete-this-directory.txt
-backend/.pytest_cache/
-backend/.mypy_cache/
-backend/.coverage
-backend/htmlcov/
-backend/*.egg-info/
-backend/dist/
-backend/build/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
 
 # Node.js (if using TypeScript MCP)
 backend/node_modules/
@@ -69,6 +69,13 @@ frontend/__tests__/coverage/
 *.swo
 *~
 
+# Docs
+docs/
+frontend/expo-app/docs
+backend/mcp-server/docs
+AGENTS.md
+GEMINI.md
+
 # ========================================
 # Data & Scripts
 # ========================================
@@ -96,6 +103,10 @@ scripts/temp/
 **/.env.local
 **/.env.development
 **/.env.production
+**/.env.backup
+**/.env.*.backup
 **/secrets.json
 backend/config/secrets.py
 frontend/config/secrets.ts
+backend/mcp-server/mcp_agent.secrets.yaml
+*.secrets.yaml

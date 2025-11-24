@@ -1,0 +1,5 @@
+# NYC POI Concierge - Tavily Curation Script Dependencies
+# Phase 1: POI Discovery and Enrichment
+
+tavily-python>=0.3.0
+python-dotenv>=1.0.0

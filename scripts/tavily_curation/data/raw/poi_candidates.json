@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Sushi Sho",
+    "category": "fine-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "In 2025, Michelin awarded three stars to Sushi Sho, two stars to Joo Ok, and one star to Bridges. Eleven Madison Park, Masa, Le Bernardin, and Per Se retained their three stars.",
+    "extracted_at": "2025-11-22T20:59:23.476660",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "Joo Ok",
+    "category": "fine-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "In 2025, Michelin awarded three stars to Sushi Sho, two stars to Joo Ok, and one star to Bridges. Eleven Madison Park, Masa, Le Bernardin, and Per Se retained their three stars.",
+    "extracted_at": "2025-11-22T20:59:23.476724",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "Eleven Madison Park",
+    "category": "fine-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "In 2025, Michelin awarded three stars to Sushi Sho, two stars to Joo Ok, and one star to Bridges. Eleven Madison Park, Masa, Le Bernardin, and Per Se retained their three stars.",
+    "extracted_at": "2025-11-22T20:59:23.476728",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "Le Bernardin",
+    "category": "fine-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "In 2025, Michelin awarded three stars to Sushi Sho, two stars to Joo Ok, and one star to Bridges. Eleven Madison Park, Masa, Le Bernardin, and Per Se retained their three stars.",
+    "extracted_at": "2025-11-22T20:59:23.476730",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "Per Se",
+    "category": "fine-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "In 2025, Michelin awarded three stars to Sushi Sho, two stars to Joo Ok, and one star to Bridges. Eleven Madison Park, Masa, Le Bernardin, and Per Se retained their three stars.",
+    "extracted_at": "2025-11-22T20:59:23.476731",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "New York City",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/maps/michelin-starred-restaurants-nyc-2024",
+    "mention_context": "There are 74-starred restaurants on Michelin\u2019s 2024 guide to New York City. The biggest news for 2024 is that Jungsik from Seoul\u2019s Jungsik Yim, landed three stars, the first Korean restaurant to earn ",
+    "extracted_at": "2025-11-22T20:59:23.476862",
+    "confidence_score": 0.99979013
+  },
+  {
+    "name": "Mapped There",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/maps/michelin-starred-restaurants-nyc-2024",
+    "mention_context": "There are 74-starred restaurants on Michelin\u2019s 2024 guide to New York City. The biggest news for 2024 is that Jungsik from Seoul\u2019s Jungsik Yim, landed three stars, the first Korean restaurant to earn ",
+    "extracted_at": "2025-11-22T20:59:23.476869",
+    "confidence_score": 0.99979013
+  },
+  {
+    "name": "Mapped\nThe Best Sandwiches",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap",
+    "mention_context": "Michelin-Starred Restaurants in NYC for 2025, Mapped\nMichelin-Starred Restaurants in NYC for 2025, Mapped\nMichelin-Starred Restaurants in NYC for 2025, Mapped\n\n## Mommy Pai\u2019s [...] Michelin-Starred Re",
+    "extracted_at": "2025-11-22T20:59:23.476914",
+    "confidence_score": 0.99953806
+  },
+  {
+    "name": "Queens\nMichelin",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap",
+    "mention_context": "Michelin-Starred Restaurants in NYC for 2025, Mapped\nMichelin-Starred Restaurants in NYC for 2025, Mapped\nMichelin-Starred Restaurants in NYC for 2025, Mapped\n\n## Mommy Pai\u2019s [...] Michelin-Starred Re",
+    "extracted_at": "2025-11-22T20:59:23.476916",
+    "confidence_score": 0.99953806
+  },
+  {
+    "name": "Best New Restaurants",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap",
+    "mention_context": "Michelin-Starred Restaurants in NYC for 2025, Mapped\nMichelin-Starred Restaurants in NYC for 2025, Mapped\nMichelin-Starred Restaurants in NYC for 2025, Mapped\n\n## Mommy Pai\u2019s [...] Michelin-Starred Re",
+    "extracted_at": "2025-11-22T20:59:23.476917",
+    "confidence_score": 0.99953806
+  },
+  {
+    "name": "Mapped\nMichelin",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap",
+    "mention_context": "Michelin-Starred Restaurants in NYC for 2025, Mapped\nMichelin-Starred Restaurants in NYC for 2025, Mapped\nMichelin-Starred Restaurants in NYC for 2025, Mapped\n\n## Mommy Pai\u2019s [...] Michelin-Starred Re",
+    "extracted_at": "2025-11-22T20:59:23.476918",
+    "confidence_score": 0.99953806
+  },
+  {
+    "name": "Mommy Pai",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap",
+    "mention_context": "Michelin-Starred Restaurants in NYC for 2025, Mapped\nMichelin-Starred Restaurants in NYC for 2025, Mapped\nMichelin-Starred Restaurants in NYC for 2025, Mapped\n\n## Mommy Pai\u2019s [...] Michelin-Starred Re",
+    "extracted_at": "2025-11-22T20:59:23.476920",
+    "confidence_score": 0.99953806
+  },
+  {
+    "name": "Crown Shy",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/news/406722/nyc-michelin-stars-restaurants-2025",
+    "mention_context": "The restaurants that kept their two Michelin stars include Scandinavian Aquavit, Brooklyn\u2019s Swedish Aska, seasonal tasting menu restaurant Atera, Korean restaurant Atomix, Tarrytown\u2019s Blue Hill at Sto",
+    "extracted_at": "2025-11-22T20:59:23.476976",
+    "confidence_score": 0.9979652
+  },
+  {
+    "name": "Gabriel Kreuther",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/news/406722/nyc-michelin-stars-restaurants-2025",
+    "mention_context": "The restaurants that kept their two Michelin stars include Scandinavian Aquavit, Brooklyn\u2019s Swedish Aska, seasonal tasting menu restaurant Atera, Korean restaurant Atomix, Tarrytown\u2019s Blue Hill at Sto",
+    "extracted_at": "2025-11-22T20:59:23.476978",
+    "confidence_score": 0.9979652
+  },
+  {
+    "name": "Upper East Side",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/news/406722/nyc-michelin-stars-restaurants-2025",
+    "mention_context": "The restaurants that kept their two Michelin stars include Scandinavian Aquavit, Brooklyn\u2019s Swedish Aska, seasonal tasting menu restaurant Atera, Korean restaurant Atomix, Tarrytown\u2019s Blue Hill at Sto",
+    "extracted_at": "2025-11-22T20:59:23.476979",
+    "confidence_score": 0.9979652
+  },
+  {
+    "name": "Simon Kim",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/news/406722/nyc-michelin-stars-restaurants-2025",
+    "mention_context": "The restaurants that kept their two Michelin stars include Scandinavian Aquavit, Brooklyn\u2019s Swedish Aska, seasonal tasting menu restaurant Atera, Korean restaurant Atomix, Tarrytown\u2019s Blue Hill at Sto",
+    "extracted_at": "2025-11-22T20:59:23.476980",
+    "confidence_score": 0.9979652
+  },
+  {
+    "name": "Fidi Saga",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/news/406722/nyc-michelin-stars-restaurants-2025",
+    "mention_context": "The restaurants that kept their two Michelin stars include Scandinavian Aquavit, Brooklyn\u2019s Swedish Aska, seasonal tasting menu restaurant Atera, Korean restaurant Atomix, Tarrytown\u2019s Blue Hill at Sto",
+    "extracted_at": "2025-11-22T20:59:23.476981",
+    "confidence_score": 0.9979652
+  },
+  {
+    "name": "Guide Plus\n Travel Guides\n Best",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/us/en/article/michelin-guide-ceremony/all-the-stars-in-the-michelin-guide-to-new-york-city-2025",
+    "mention_context": "Restaurants\n Hotels\n MICHELIN Guide Plus\n Travel Guides\n Best-of Guides\n Magazine\n MICHELIN Guide Ceremony\n My Favorites\n Contact us\n Subscribe to newsletter\n Booking partnership with OpenTable\n Booki",
+    "extracted_at": "2025-11-22T20:59:23.477021",
+    "confidence_score": 0.9976949
+  },
+  {
+    "name": "Guide Ceremony",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/us/en/article/michelin-guide-ceremony/all-the-stars-in-the-michelin-guide-to-new-york-city-2025",
+    "mention_context": "Restaurants\n Hotels\n MICHELIN Guide Plus\n Travel Guides\n Best-of Guides\n Magazine\n MICHELIN Guide Ceremony\n My Favorites\n Contact us\n Subscribe to newsletter\n Booking partnership with OpenTable\n Booki",
+    "extracted_at": "2025-11-22T20:59:23.477024",
+    "confidence_score": 0.9976949
+  },
+  {
+    "name": "Restaurants\n Hotels",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/us/en/article/michelin-guide-ceremony/all-the-stars-in-the-michelin-guide-to-new-york-city-2025",
+    "mention_context": "Restaurants\n Hotels\n MICHELIN Guide Plus\n Travel Guides\n Best-of Guides\n Magazine\n MICHELIN Guide Ceremony\n My Favorites\n Contact us\n Subscribe to newsletter\n Booking partnership with OpenTable\n Booki",
+    "extracted_at": "2025-11-22T20:59:23.477025",
+    "confidence_score": 0.9976949
+  },
+  {
+    "name": "Chef Chang",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/us/en/article/michelin-guide-ceremony/all-the-stars-in-the-michelin-guide-to-new-york-city-2025",
+    "mention_context": "Restaurants\n Hotels\n MICHELIN Guide Plus\n Travel Guides\n Best-of Guides\n Magazine\n MICHELIN Guide Ceremony\n My Favorites\n Contact us\n Subscribe to newsletter\n Booking partnership with OpenTable\n Booki",
+    "extracted_at": "2025-11-22T20:59:23.477026",
+    "confidence_score": 0.9976949
+  },
+  {
+    "name": "Michelin Stars",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/en/article/michelin-guide-ceremony/all-the-stars-in-the-michelin-guide-to-new-york-city-2025",
+    "mention_context": "Meanwhile, MICHELIN-Starred Joo Ok has been promoted to Two Stars. This restaurant in the heart of Koreatown blends minimalist design with views of the Manhattan skyline, but it's the striking food th",
+    "extracted_at": "2025-11-22T20:59:23.477062",
+    "confidence_score": 0.99758446
+  },
+  {
+    "name": "Two Stars",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/en/article/michelin-guide-ceremony/all-the-stars-in-the-michelin-guide-to-new-york-city-2025",
+    "mention_context": "Meanwhile, MICHELIN-Starred Joo Ok has been promoted to Two Stars. This restaurant in the heart of Koreatown blends minimalist design with views of the Manhattan skyline, but it's the striking food th",
+    "extracted_at": "2025-11-22T20:59:23.477066",
+    "confidence_score": 0.99758446
+  },
+  {
+    "name": "Share\n\nNew York",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/en/article/michelin-guide-ceremony/all-the-stars-in-the-michelin-guide-to-new-york-city-2025",
+    "mention_context": "Meanwhile, MICHELIN-Starred Joo Ok has been promoted to Two Stars. This restaurant in the heart of Koreatown blends minimalist design with views of the Manhattan skyline, but it's the striking food th",
+    "extracted_at": "2025-11-22T20:59:23.477067",
+    "confidence_score": 0.99758446
+  },
+  {
+    "name": "Guide Discover",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/us/en/travel-guide/new-york-city",
+    "mention_context": "Discover the openings that everyone is talking about: New York\u2019s buzziest bo\u00eetes and bistros, Michelin-Starred restaurants that are among the cheapest in New York and Bib Gourmands offering amazing va",
+    "extracted_at": "2025-11-22T20:59:23.477111",
+    "confidence_score": 0.99589807
+  },
+  {
+    "name": "One Inspector",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/us/en/travel-guide/new-york-city",
+    "mention_context": "Discover the openings that everyone is talking about: New York\u2019s buzziest bo\u00eetes and bistros, Michelin-Starred restaurants that are among the cheapest in New York and Bib Gourmands offering amazing va",
+    "extracted_at": "2025-11-22T20:59:23.477113",
+    "confidence_score": 0.99589807
+  },
+  {
+    "name": "By The",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/us/en/travel-guide/new-york-city",
+    "mention_context": "Discover the openings that everyone is talking about: New York\u2019s buzziest bo\u00eetes and bistros, Michelin-Starred restaurants that are among the cheapest in New York and Bib Gourmands offering amazing va",
+    "extracted_at": "2025-11-22T20:59:23.477114",
+    "confidence_score": 0.99589807
+  },
+  {
+    "name": "Least Expensive One Star Restaurants",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/us/en/travel-guide/new-york-city",
+    "mention_context": "Discover the openings that everyone is talking about: New York\u2019s buzziest bo\u00eetes and bistros, Michelin-Starred restaurants that are among the cheapest in New York and Bib Gourmands offering amazing va",
+    "extracted_at": "2025-11-22T20:59:23.477115",
+    "confidence_score": 0.99589807
+  },
+  {
+    "name": "Midtown Manhattan",
+    "category": "fine-dining",
+    "source_url": "https://guide.michelin.com/us/en/travel-guide/new-york-city",
+    "mention_context": "Discover the openings that everyone is talking about: New York\u2019s buzziest bo\u00eetes and bistros, Michelin-Starred restaurants that are among the cheapest in New York and Bib Gourmands offering amazing va",
+    "extracted_at": "2025-11-22T20:59:23.477116",
+    "confidence_score": 0.99589807
+  },
+  {
+    "name": "New York",
+    "category": "fine-dining",
+    "source_url": "https://ny.eater.com/news/405460/michelin-guide-nyc-restaurants-additions-awards-recommended-october-2025",
+    "mention_context": "The Michelin Guide \u2014 the international dining rating system run by the French tire company \u2014 announced the latest batch of New York City restaurants to its directory today, Wednesday, October 15. This",
+    "extracted_at": "2025-11-22T20:59:23.478033",
+    "confidence_score": 0.99549675
+  },
+  {
+    "name": "Txula Steak",
+    "category": "casual-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "Babbo, Txula Steak, and Seahorse Markette are among the best new restaurants in Manhattan for 2025. Dante Aperitivo opened in West Village, and Cuna and Cuna Bar opened in East Village.",
+    "extracted_at": "2025-11-22T20:59:48.040501",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "Seahorse Markette",
+    "category": "casual-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "Babbo, Txula Steak, and Seahorse Markette are among the best new restaurants in Manhattan for 2025. Dante Aperitivo opened in West Village, and Cuna and Cuna Bar opened in East Village.",
+    "extracted_at": "2025-11-22T20:59:48.040518",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "Dante Aperitivo",
+    "category": "casual-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "Babbo, Txula Steak, and Seahorse Markette are among the best new restaurants in Manhattan for 2025. Dante Aperitivo opened in West Village, and Cuna and Cuna Bar opened in East Village.",
+    "extracted_at": "2025-11-22T20:59:48.040520",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "West Village",
+    "category": "casual-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "Babbo, Txula Steak, and Seahorse Markette are among the best new restaurants in Manhattan for 2025. Dante Aperitivo opened in West Village, and Cuna and Cuna Bar opened in East Village.",
+    "extracted_at": "2025-11-22T20:59:48.040521",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "Cuna Bar",
+    "category": "casual-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "Babbo, Txula Steak, and Seahorse Markette are among the best new restaurants in Manhattan for 2025. Dante Aperitivo opened in West Village, and Cuna and Cuna Bar opened in East Village.",
+    "extracted_at": "2025-11-22T20:59:48.040523",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "East Village",
+    "category": "casual-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "Babbo, Txula Steak, and Seahorse Markette are among the best new restaurants in Manhattan for 2025. Dante Aperitivo opened in West Village, and Cuna and Cuna Bar opened in East Village.",
+    "extracted_at": "2025-11-22T20:59:48.040524",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "Best New Restaurants",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap",
+    "mention_context": "The best new Manhattan restaurants in NYC: Babbo, Txula Steak, Wild Cherry, the 86, Seahorse Markette, Bartolo, Chateau Royale, Adda,",
+    "extracted_at": "2025-11-22T20:59:48.040541",
+    "confidence_score": 0.84707206
+  },
+  {
+    "name": "Chateau Royale",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap",
+    "mention_context": "The best new Manhattan restaurants in NYC: Babbo, Txula Steak, Wild Cherry, the 86, Seahorse Markette, Bartolo, Chateau Royale, Adda,",
+    "extracted_at": "2025-11-22T20:59:48.040543",
+    "confidence_score": 0.84707206
+  },
+  {
+    "name": "Wild Cherry",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-new-nyc-restaurants-heatmap",
+    "mention_context": "The best new Manhattan restaurants in NYC: Babbo, Txula Steak, Wild Cherry, the 86, Seahorse Markette, Bartolo, Chateau Royale, Adda,",
+    "extracted_at": "2025-11-22T20:59:48.040544",
+    "confidence_score": 0.84707206
+  },
+  {
+    "name": "Greenwich Village",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/restaurant-openings/405068/nyc-new-restaurant-openings-october-2025",
+    "mention_context": "**West Village:** **Dante Aperitivo**, the sister restaurant to Greenwich Village\u2019s Dante, opened in early October with cocktails and a seafood-focused menu including a raw bar. Its new location on Gr",
+    "extracted_at": "2025-11-22T20:59:48.040580",
+    "confidence_score": 0.78532547
+  },
+  {
+    "name": "Chef Maycoll",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/restaurant-openings/405068/nyc-new-restaurant-openings-october-2025",
+    "mention_context": "**West Village:** **Dante Aperitivo**, the sister restaurant to Greenwich Village\u2019s Dante, opened in early October with cocktails and a seafood-focused menu including a raw bar. Its new location on Gr",
+    "extracted_at": "2025-11-22T20:59:48.040582",
+    "confidence_score": 0.78532547
+  },
+  {
+    "name": "Restaurant Openings You Should Know About This September",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/",
+    "mention_context": "![An Eater\u2019s Guide to New York City](https://platform.ny.eater.com/wp-content/uploads/sites/6/2025/04/barkabawa.webp?quality=90&strip=all&crop=0%2C0.49504950495049%2C100%2C99.009900990099&w=2400) ![Th",
+    "extracted_at": "2025-11-22T20:59:48.040679",
+    "confidence_score": 0.735737
+  },
+  {
+    "name": "New York City",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/",
+    "mention_context": "![An Eater\u2019s Guide to New York City](https://platform.ny.eater.com/wp-content/uploads/sites/6/2025/04/barkabawa.webp?quality=90&strip=all&crop=0%2C0.49504950495049%2C100%2C99.009900990099&w=2400) ![Th",
+    "extracted_at": "2025-11-22T20:59:48.040681",
+    "confidence_score": 0.735737
+  },
+  {
+    "name": "Scale Restaurant",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/",
+    "mention_context": "![An Eater\u2019s Guide to New York City](https://platform.ny.eater.com/wp-content/uploads/sites/6/2025/04/barkabawa.webp?quality=90&strip=all&crop=0%2C0.49504950495049%2C100%2C99.009900990099&w=2400) ![Th",
+    "extracted_at": "2025-11-22T20:59:48.040683",
+    "confidence_score": 0.735737
+  },
+  {
+    "name": "The Best Steakhouses",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/",
+    "mention_context": "![An Eater\u2019s Guide to New York City](https://platform.ny.eater.com/wp-content/uploads/sites/6/2025/04/barkabawa.webp?quality=90&strip=all&crop=0%2C0.49504950495049%2C100%2C99.009900990099&w=2400) ![Th",
+    "extracted_at": "2025-11-22T20:59:48.040685",
+    "confidence_score": 0.735737
+  },
+  {
+    "name": "The Saddest",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/",
+    "mention_context": "![An Eater\u2019s Guide to New York City](https://platform.ny.eater.com/wp-content/uploads/sites/6/2025/04/barkabawa.webp?quality=90&strip=all&crop=0%2C0.49504950495049%2C100%2C99.009900990099&w=2400) ![Th",
+    "extracted_at": "2025-11-22T20:59:48.040686",
+    "confidence_score": 0.735737
+  },
+  {
+    "name": "Best Dishes New York Editors Ate This Week",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/best-new-dishes-nyc/400851/best-dishes-new-york-restaurants-july-21-2025",
+    "mention_context": "The best dishes Eater NY editors ate in New York City during the week of July 21, 2025, includes NYC restaurants Olmo, Sunn's, Corner Store,",
+    "extracted_at": "2025-11-22T20:59:48.040702",
+    "confidence_score": 0.7279179
+  },
+  {
+    "name": "Corner Store",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/best-new-dishes-nyc/400851/best-dishes-new-york-restaurants-july-21-2025",
+    "mention_context": "The best dishes Eater NY editors ate in New York City during the week of July 21, 2025, includes NYC restaurants Olmo, Sunn's, Corner Store,",
+    "extracted_at": "2025-11-22T20:59:48.040705",
+    "confidence_score": 0.7279179
+  },
+  {
+    "name": "Manhattan Daniel Boulud",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-midtown-east-nyc",
+    "mention_context": "The Best New Restaurants in Manhattan The Best New Restaurants in Manhattan Daniel Boulud\u2019s namesake restaurant is destination dining, a full-on fancy affair at the flagship spot that started it all f",
+    "extracted_at": "2025-11-22T20:59:48.040738",
+    "confidence_score": 0.72019166
+  },
+  {
+    "name": "Restaurant Around New York City The",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-midtown-east-nyc",
+    "mention_context": "The Best New Restaurants in Manhattan The Best New Restaurants in Manhattan Daniel Boulud\u2019s namesake restaurant is destination dining, a full-on fancy affair at the flagship spot that started it all f",
+    "extracted_at": "2025-11-22T20:59:48.040742",
+    "confidence_score": 0.72019166
+  },
+  {
+    "name": "Manhattan The Best New Restaurants",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-midtown-east-nyc",
+    "mention_context": "The Best New Restaurants in Manhattan The Best New Restaurants in Manhattan Daniel Boulud\u2019s namesake restaurant is destination dining, a full-on fancy affair at the flagship spot that started it all f",
+    "extracted_at": "2025-11-22T20:59:48.040743",
+    "confidence_score": 0.72019166
+  },
+  {
+    "name": "Top Chef",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-midtown-east-nyc",
+    "mention_context": "The Best New Restaurants in Manhattan The Best New Restaurants in Manhattan Daniel Boulud\u2019s namesake restaurant is destination dining, a full-on fancy affair at the flagship spot that started it all f",
+    "extracted_at": "2025-11-22T20:59:48.040745",
+    "confidence_score": 0.72019166
+  },
+  {
+    "name": "Mommy Pai",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/dining-out-in-ny/405771/best-dishes-new-york-restaurants-october-27-2025",
+    "mention_context": "The best dishes Eater NY editors ate in New York City during the week of October 27, 2025, include NYC restaurants Nudibranch, Mommy Pai's,",
+    "extracted_at": "2025-11-22T20:59:48.040758",
+    "confidence_score": 0.7144891
+  },
+  {
+    "name": "Sam Clonts",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/michelin-starred-restaurants-nyc-2024",
+    "mention_context": "It joins Eleven Madison Park, Masa, Le Bernardin, and Per Se. Meanwhile, among two-star restaurants, C\u00e9sar from C\u00e9sar Ramirez, Chef\u2019s Table at Brooklyn Fare, and Sushi Sho are new. It joins Eleven Mad",
+    "extracted_at": "2025-11-22T20:59:48.040806",
+    "confidence_score": 0.6937432
+  },
+  {
+    "name": "Per Se",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/michelin-starred-restaurants-nyc-2024",
+    "mention_context": "It joins Eleven Madison Park, Masa, Le Bernardin, and Per Se. Meanwhile, among two-star restaurants, C\u00e9sar from C\u00e9sar Ramirez, Chef\u2019s Table at Brooklyn Fare, and Sushi Sho are new. It joins Eleven Mad",
+    "extracted_at": "2025-11-22T20:59:48.040808",
+    "confidence_score": 0.6937432
+  },
+  {
+    "name": "Sushi Sho",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/michelin-starred-restaurants-nyc-2024",
+    "mention_context": "It joins Eleven Madison Park, Masa, Le Bernardin, and Per Se. Meanwhile, among two-star restaurants, C\u00e9sar from C\u00e9sar Ramirez, Chef\u2019s Table at Brooklyn Fare, and Sushi Sho are new. It joins Eleven Mad",
+    "extracted_at": "2025-11-22T20:59:48.040810",
+    "confidence_score": 0.6937432
+  },
+  {
+    "name": "Eleven Madison Park",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/michelin-starred-restaurants-nyc-2024",
+    "mention_context": "It joins Eleven Madison Park, Masa, Le Bernardin, and Per Se. Meanwhile, among two-star restaurants, C\u00e9sar from C\u00e9sar Ramirez, Chef\u2019s Table at Brooklyn Fare, and Sushi Sho are new. It joins Eleven Mad",
+    "extracted_at": "2025-11-22T20:59:48.040812",
+    "confidence_score": 0.6937432
+  },
+  {
+    "name": "Mitsunobu Nagae",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/michelin-starred-restaurants-nyc-2024",
+    "mention_context": "It joins Eleven Madison Park, Masa, Le Bernardin, and Per Se. Meanwhile, among two-star restaurants, C\u00e9sar from C\u00e9sar Ramirez, Chef\u2019s Table at Brooklyn Fare, and Sushi Sho are new. It joins Eleven Mad",
+    "extracted_at": "2025-11-22T20:59:48.040814",
+    "confidence_score": 0.6937432
+  },
+  {
+    "name": "Times Square",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/coming-attractions/404302/new-restaurants-openings-nyc-new-york-fall-2025-anticipated-preview-coming-soon",
+    "mention_context": "Hwaro isn\u2019t just another tasting counter \u2014 it\u2019s chef Sungchul Shim\u2019s most ambitious and personal project yet, housed in the same Times Square spot that houses Gui. Known for Kochi and Mari, Shim is pu",
+    "extracted_at": "2025-11-22T20:59:48.040854",
+    "confidence_score": 0.6202772
+  },
+  {
+    "name": "London Indian",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/coming-attractions/404302/new-restaurants-openings-nyc-new-york-fall-2025-anticipated-preview-coming-soon",
+    "mention_context": "Hwaro isn\u2019t just another tasting counter \u2014 it\u2019s chef Sungchul Shim\u2019s most ambitious and personal project yet, housed in the same Times Square spot that houses Gui. Known for Kochi and Mari, Shim is pu",
+    "extracted_at": "2025-11-22T20:59:48.040858",
+    "confidence_score": 0.6202772
+  },
+  {
+    "name": "New York",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/coming-attractions/404302/new-restaurants-openings-nyc-new-york-fall-2025-anticipated-preview-coming-soon",
+    "mention_context": "Hwaro isn\u2019t just another tasting counter \u2014 it\u2019s chef Sungchul Shim\u2019s most ambitious and personal project yet, housed in the same Times Square spot that houses Gui. Known for Kochi and Mari, Shim is pu",
+    "extracted_at": "2025-11-22T20:59:48.040860",
+    "confidence_score": 0.6202772
+  },
+  {
+    "name": "Hotel Brooklyn Bridge",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/coming-attractions/404302/new-restaurants-openings-nyc-new-york-fall-2025-anticipated-preview-coming-soon",
+    "mention_context": "Hwaro isn\u2019t just another tasting counter \u2014 it\u2019s chef Sungchul Shim\u2019s most ambitious and personal project yet, housed in the same Times Square spot that houses Gui. Known for Kochi and Mari, Shim is pu",
+    "extracted_at": "2025-11-22T20:59:48.040862",
+    "confidence_score": 0.6202772
+  },
+  {
+    "name": "The Best Restaurants",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-upper-west-side-nyc",
+    "mention_context": "The best Upper West Side restaurants. Check out the neighborhood's diner fare, delis, spicy Sichuan, and lively Vietnamese.",
+    "extracted_at": "2025-11-22T20:59:48.040873",
+    "confidence_score": 0.4547875
+  },
+  {
+    "name": "Upper West Side",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-upper-west-side-nyc",
+    "mention_context": "The best Upper West Side restaurants. Check out the neighborhood's diner fare, delis, spicy Sichuan, and lively Vietnamese.",
+    "extracted_at": "2025-11-22T20:59:48.040875",
+    "confidence_score": 0.4547875
+  },
+  {
+    "name": "New York City The Best Restaurants Open",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-chinatown-manhattan-nyc",
+    "mention_context": "From fresh rice noodle rolls to dumplings, a dining guide to New York\u2019s oldest and most famous Chinatown in Manhattan *Robert Sietsema is the former senior restaurant critic for Eater NY, with more th",
+    "extracted_at": "2025-11-22T20:59:48.040906",
+    "confidence_score": 0.41094592
+  },
+  {
+    "name": "The Best Places",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-chinatown-manhattan-nyc",
+    "mention_context": "From fresh rice noodle rolls to dumplings, a dining guide to New York\u2019s oldest and most famous Chinatown in Manhattan *Robert Sietsema is the former senior restaurant critic for Eater NY, with more th",
+    "extracted_at": "2025-11-22T20:59:48.040911",
+    "confidence_score": 0.41094592
+  },
+  {
+    "name": "Robert Sietsema",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-chinatown-manhattan-nyc",
+    "mention_context": "From fresh rice noodle rolls to dumplings, a dining guide to New York\u2019s oldest and most famous Chinatown in Manhattan *Robert Sietsema is the former senior restaurant critic for Eater NY, with more th",
+    "extracted_at": "2025-11-22T20:59:48.040913",
+    "confidence_score": 0.41094592
+  },
+  {
+    "name": "The Best Upper East Side Restaurants Welcome",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-upper-east-side-ues-nyc",
+    "mention_context": "Welcome to the list EJ's Luncheonette, Bohemian Spirit, Mission Ceviche, Schaller & Weber, Super Taste, Chez Fifi, Cafe Commerce, Nightly's, and Elio's.",
+    "extracted_at": "2025-11-22T20:59:48.040929",
+    "confidence_score": 0.40825373
+  },
+  {
+    "name": "Chez Fifi",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-upper-east-side-ues-nyc",
+    "mention_context": "Welcome to the list EJ's Luncheonette, Bohemian Spirit, Mission Ceviche, Schaller & Weber, Super Taste, Chez Fifi, Cafe Commerce, Nightly's, and Elio's.",
+    "extracted_at": "2025-11-22T20:59:48.040930",
+    "confidence_score": 0.40825373
+  },
+  {
+    "name": "Super Taste",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-upper-east-side-ues-nyc",
+    "mention_context": "Welcome to the list EJ's Luncheonette, Bohemian Spirit, Mission Ceviche, Schaller & Weber, Super Taste, Chez Fifi, Cafe Commerce, Nightly's, and Elio's.",
+    "extracted_at": "2025-11-22T20:59:48.040932",
+    "confidence_score": 0.40825373
+  },
+  {
+    "name": "Bohemian Spirit",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-upper-east-side-ues-nyc",
+    "mention_context": "Welcome to the list EJ's Luncheonette, Bohemian Spirit, Mission Ceviche, Schaller & Weber, Super Taste, Chez Fifi, Cafe Commerce, Nightly's, and Elio's.",
+    "extracted_at": "2025-11-22T20:59:48.040934",
+    "confidence_score": 0.40825373
+  },
+  {
+    "name": "Cafe Commerce",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-upper-east-side-ues-nyc",
+    "mention_context": "Welcome to the list EJ's Luncheonette, Bohemian Spirit, Mission Ceviche, Schaller & Weber, Super Taste, Chez Fifi, Cafe Commerce, Nightly's, and Elio's.",
+    "extracted_at": "2025-11-22T20:59:48.040935",
+    "confidence_score": 0.40825373
+  },
+  {
+    "name": "Best Restaurants Around Times Square",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-times-square-nyc",
+    "mention_context": "The Most Fun Restaurants in New York City The Most Fun Restaurants in New York City The Best Burgers in New York City, According to Eater Editors The Best Burgers in New York City, According to Eater ",
+    "extracted_at": "2025-11-22T20:59:48.040972",
+    "confidence_score": 0.39789218
+  },
+  {
+    "name": "New York City The Most Fun Restaurants",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-times-square-nyc",
+    "mention_context": "The Most Fun Restaurants in New York City The Most Fun Restaurants in New York City The Best Burgers in New York City, According to Eater Editors The Best Burgers in New York City, According to Eater ",
+    "extracted_at": "2025-11-22T20:59:48.040975",
+    "confidence_score": 0.39789218
+  },
+  {
+    "name": "New York City The Best Steakhouses",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-restaurants-times-square-nyc",
+    "mention_context": "The Most Fun Restaurants in New York City The Most Fun Restaurants in New York City The Best Burgers in New York City, According to Eater Editors The Best Burgers in New York City, According to Eater ",
+    "extracted_at": "2025-11-22T20:59:48.040977",
+    "confidence_score": 0.39789218
+  },
+  {
+    "name": "Bangkok Supper Club",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-west-village-restaurants",
+    "mention_context": "Where to find the best restaurants in the West Village in NYC: San Sabino, Commerce Inn, Bangkok Supper Club, and other restaurants.",
+    "extracted_at": "2025-11-22T20:59:48.040990",
+    "confidence_score": 0.39110413
+  },
+  {
+    "name": "Commerce Inn",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-west-village-restaurants",
+    "mention_context": "Where to find the best restaurants in the West Village in NYC: San Sabino, Commerce Inn, Bangkok Supper Club, and other restaurants.",
+    "extracted_at": "2025-11-22T20:59:48.040991",
+    "confidence_score": 0.39110413
+  },
+  {
+    "name": "San Sabino",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-west-village-restaurants",
+    "mention_context": "Where to find the best restaurants in the West Village in NYC: San Sabino, Commerce Inn, Bangkok Supper Club, and other restaurants.",
+    "extracted_at": "2025-11-22T20:59:48.040993",
+    "confidence_score": 0.39110413
+  },
+  {
+    "name": "The Best West Village Restaurants",
+    "category": "casual-dining",
+    "source_url": "https://ny.eater.com/maps/best-west-village-restaurants",
+    "mention_context": "Where to find the best restaurants in the West Village in NYC: San Sabino, Commerce Inn, Bangkok Supper Club, and other restaurants.",
+    "extracted_at": "2025-11-22T20:59:48.040994",
+    "confidence_score": 0.39110413
+  },
+  {
+    "name": "Via Carota",
+    "category": "casual-dining",
+    "source_url": "tavily_answer",
+    "mention_context": "For top Italian restaurants in Manhattan, NYC, consider Roscioli, known for its fine Italian products, and Via Carota for authentic Italian cuisine. These spots are highly recommended for their qualit",
+    "extracted_at": "2025-11-22T20:59:51.060957",
+    "confidence_score": 0.8
+  },
+  {
+    "name": "Reddit What",
+    "category": "bars-cocktails",
+    "source_url": "https://www.reddit.com/r/cocktails/comments/1iob1a5/what_are_the_must_goto_cocktail_bars_in_nyc_2025/",
+    "mention_context": "What are the Must Go-To Cocktail Bars in NYC 2025 : r/cocktails Skip to main content What are the Must Go-To Cocktail Bars in NYC 2025 : r/cocktails A community of those who particularly enjoy making,",
+    "extracted_at": "2025-11-22T21:00:03.145652",
+    "confidence_score": 0.99991906
+  },
+  {
+    "name": "New York Tiki Bar",
+    "category": "bars-cocktails",
+    "source_url": "https://www.reddit.com/r/cocktails/comments/1iob1a5/what_are_the_must_goto_cocktail_bars_in_nyc_2025/",
+    "mention_context": "What are the Must Go-To Cocktail Bars in NYC 2025 : r/cocktails Skip to main content What are the Must Go-To Cocktail Bars in NYC 2025 : r/cocktails A community of those who particularly enjoy making,",
+    "extracted_at": "2025-11-22T21:00:03.145673",
+    "confidence_score": 0.99991906
+  },
+  {
+    "name": "Paradise Lost",
+    "category": "bars-cocktails",
+    "source_url": "https://www.reddit.com/r/cocktails/comments/1iob1a5/what_are_the_must_goto_cocktail_bars_in_nyc_2025/",
+    "mention_context": "What are the Must Go-To Cocktail Bars in NYC 2025 : r/cocktails Skip to main content What are the Must Go-To Cocktail Bars in NYC 2025 : r/cocktails A community of those who particularly enjoy making,",
+    "extracted_at": "2025-11-22T21:00:03.145677",
+    "confidence_score": 0.99991906
+  },
+  {
+    "name": "Must Go",
+    "category": "bars-cocktails",
+    "source_url": "https://www.reddit.com/r/cocktails/comments/1iob1a5/what_are_the_must_goto_cocktail_bars_in_nyc_2025/",
+    "mention_context": "What are the Must Go-To Cocktail Bars in NYC 2025 : r/cocktails Skip to main content What are the Must Go-To Cocktail Bars in NYC 2025 : r/cocktails A community of those who particularly enjoy making,",
+    "extracted_at": "2025-11-22T21:00:03.145679",
+    "confidence_score": 0.99991906
+  },
+  {
+    "name": "Cocktail Menu Included",
+    "category": "bars-cocktails",
+    "source_url": "https://www.reddit.com/r/cocktails/comments/1iob1a5/what_are_the_must_goto_cocktail_bars_in_nyc_2025/",
+    "mention_context": "What are the Must Go-To Cocktail Bars in NYC 2025 : r/cocktails Skip to main content What are the Must Go-To Cocktail Bars in NYC 2025 : r/cocktails A community of those who particularly enjoy making,",
+    "extracted_at": "2025-11-22T21:00:03.145682",
+    "confidence_score": 0.99991906
+  },
+  {
+    "name": "Dutch Freds",
+    "category": "bars-cocktails",
+    "source_url": "https://www.yelp.com/search?cflt=cocktailbars&find_loc=Manhattan%2C+NY",
+    "mention_context": "Best Cocktail Bars in Manhattan, NY - Last Updated November 2025 - Valerie, Bar Bonobo, Tanner Smiths, Little Ned, La Grande Boucherie, Dutch Freds,",
+    "extracted_at": "2025-11-22T21:00:03.145704",
+    "confidence_score": 0.99986553
+  },
+  {
+    "name": "Tanner Smiths",
+    "category": "bars-cocktails",
+    "source_url": "https://www.yelp.com/search?cflt=cocktailbars&find_loc=Manhattan%2C+NY",
+    "mention_context": "Best Cocktail Bars in Manhattan, NY - Last Updated November 2025 - Valerie, Bar Bonobo, Tanner Smiths, Little Ned, La Grande Boucherie, Dutch Freds,",
+    "extracted_at": "2025-11-22T21:00:03.145707",
+    "confidence_score": 0.99986553
+  },
+  {
+    "name": "Little Ned",
+    "category": "bars-cocktails",
+    "source_url": "https://www.yelp.com/search?cflt=cocktailbars&find_loc=Manhattan%2C+NY",
+    "mention_context": "Best Cocktail Bars in Manhattan, NY - Last Updated November 2025 - Valerie, Bar Bonobo, Tanner Smiths, Little Ned, La Grande Boucherie, Dutch Freds,",
+    "extracted_at": "2025-11-22T21:00:03.145709",
+    "confidence_score": 0.99986553
+  },
+  {
+    "name": "Yelp Best Cocktail Bars",
+    "category": "bars-cocktails",
+    "source_url": "https://www.yelp.com/search?cflt=cocktailbars&find_loc=Manhattan%2C+NY",
+    "mention_context": "Best Cocktail Bars in Manhattan, NY - Last Updated November 2025 - Valerie, Bar Bonobo, Tanner Smiths, Little Ned, La Grande Boucherie, Dutch Freds,",
+    "extracted_at": "2025-11-22T21:00:03.145712",
+    "confidence_score": 0.99986553
+  },
+  {
+    "name": "Bar Bonobo",
+    "category": "bars-cocktails",
+    "source_url": "https://www.yelp.com/search?cflt=cocktailbars&find_loc=Manhattan%2C+NY",
+    "mention_context": "Best Cocktail Bars in Manhattan, NY - Last Updated November 2025 - Valerie, Bar Bonobo, Tanner Smiths, Little Ned, La Grande Boucherie, Dutch Freds,",
+    "extracted_at": "2025-11-22T21:00:03.145714",
+    "confidence_score": 0.99986553
+  },
+  {
+    "name": "Best Cocktail Bars",
+    "category": "bars-cocktails",
+    "source_url": "https://www.livingthedreamrtw.com/best-cocktail-bars-in-nyc",
+    "mention_context": "Double Chicken Please is consistently rated not only as one of the best cocktail bars in New York City, but in the entire world (at the time of our visit it was #14 on the 50 Best List, and the highes",
+    "extracted_at": "2025-11-22T21:00:03.145749",
+    "confidence_score": 0.99939764
+  },
+  {
+    "name": "New York City",
+    "category": "bars-cocktails",
+    "source_url": "https://www.livingthedreamrtw.com/best-cocktail-bars-in-nyc",
+    "mention_context": "Double Chicken Please is consistently rated not only as one of the best cocktail bars in New York City, but in the entire world (at the time of our visit it was #14 on the 50 Best List, and the highes",
+    "extracted_at": "2025-11-22T21:00:03.145751",
+    "confidence_score": 0.99939764
+  },
+  {
+    "name": "Best List",
+    "category": "bars-cocktails",
+    "source_url": "https://www.livingthedreamrtw.com/best-cocktail-bars-in-nyc",
+    "mention_context": "Double Chicken Please is consistently rated not only as one of the best cocktail bars in New York City, but in the entire world (at the time of our visit it was #14 on the 50 Best List, and the highes",
+    "extracted_at": "2025-11-22T21:00:03.145754",
+    "confidence_score": 0.99939764
+  },
+  {
+    "name": "Dream Double Chicken Please",
+    "category": "bars-cocktails",
+    "source_url": "https://www.livingthedreamrtw.com/best-cocktail-bars-in-nyc",
+    "mention_context": "Double Chicken Please is consistently rated not only as one of the best cocktail bars in New York City, but in the entire world (at the time of our visit it was #14 on the 50 Best List, and the highes",
+    "extracted_at": "2025-11-22T21:00:03.145756",
+    "confidence_score": 0.99939764
+  },
+  {
+    "name": "Not To Miss",
+    "category": "bars-cocktails",
+    "source_url": "https://www.livingthedreamrtw.com/best-cocktail-bars-in-nyc",
+    "mention_context": "Double Chicken Please is consistently rated not only as one of the best cocktail bars in New York City, but in the entire world (at the time of our visit it was #14 on the 50 Best List, and the highes",
+    "extracted_at": "2025-11-22T21:00:03.145758",
+    "confidence_score": 0.99939764
+  },
+  {
+    "name": "The Infatuation This Lower East Side Bar",
+    "category": "bars-cocktails",
+    "source_url": "https://www.theinfatuation.com/new-york/guides/best-cocktail-bars-nyc",
+    "mention_context": "This Lower East Side Bar has a front area that\u2019s walk-in only, but it\u2019s worth it to make a reservation in the low-lit back room, called The Coop, where you can sit on a banquette and watch a very expe",
+    "extracted_at": "2025-11-22T21:00:03.145790",
+    "confidence_score": 0.99937373
+  },
+  {
+    "name": "Cold Pizza",
+    "category": "bars-cocktails",
+    "source_url": "https://www.theinfatuation.com/new-york/guides/best-cocktail-bars-nyc",
+    "mention_context": "This Lower East Side Bar has a front area that\u2019s walk-in only, but it\u2019s worth it to make a reservation in the low-lit back room, called The Coop, where you can sit on a banquette and watch a very expe",
+    "extracted_at": "2025-11-22T21:00:03.145792",
+    "confidence_score": 0.99937373
+  },
+  {
+    "name": "The Savoy Cocktail Book",
+    "category": "bars-cocktails",
+    "source_url": "https://www.theinfatuation.com/new-york/guides/best-cocktail-bars-nyc",
+    "mention_context": "This Lower East Side Bar has a front area that\u2019s walk-in only, but it\u2019s worth it to make a reservation in the low-lit back room, called The Coop, where you can sit on a banquette and watch a very expe",
+    "extracted_at": "2025-11-22T21:00:03.145798",
+    "confidence_score": 0.99937373
+  },
+  {
+    "name": "Best Cocktail Bars In",
+    "category": "bars-cocktails",
+    "source_url": "https://www.theinfatuation.com/new-york/guides/best-cocktail-bars-nyc",
+    "mention_context": "This Lower East Side Bar has a front area that\u2019s walk-in only, but it\u2019s worth it to make a reservation in the low-lit back room, called The Coop, where you can sit on a banquette and watch a very expe",
+    "extracted_at": "2025-11-22T21:00:03.145800",
+    "confidence_score": 0.99937373
+  },
+  {
+    "name": "List Is Out",
+    "category": "bars-cocktails",
+    "source_url": "https://secretnyc.co/worlds-50-best-bars-2025-1-50-list/",
+    "mention_context": "Rising 15 places this year, Superbueno in Manhattan's East Village soared to No.12 on the list, making it the highest-ranked New York bar of",
+    "extracted_at": "2025-11-22T21:00:03.145819",
+    "confidence_score": 0.9990226
+  }
+]

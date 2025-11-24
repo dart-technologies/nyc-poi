@@ -1,0 +1,556 @@
+[
+    {
+        "_id": "mock_001",
+        "name": "Le Bernardin",
+        "slug": "le-bernardin-midtown",
+        "category": "fine-dining",
+        "subcategories": [
+            "french",
+            "seafood",
+            "special-occasion"
+        ],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -73.9826,
+                40.7614
+            ]
+        },
+        "address": {
+            "street": "155 W 51st St",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10019",
+            "neighborhood": "Midtown West",
+            "borough": "Manhattan"
+        },
+        "prestige": {
+            "score": 125.5,
+            "michelin_stars": 3,
+            "michelin_since": 2005,
+            "james_beard_awards": [
+                "Outstanding Restaurant 2023"
+            ],
+            "nyt_stars": 4,
+            "best_of_lists": [
+                {
+                    "source": "Eater NY",
+                    "list": "Best Restaurants in NYC 2025",
+                    "rank": 3,
+                    "url": "https://ny.eater.com/maps/best-new-york-restaurants-38"
+                },
+                {
+                    "source": "Michelin Guide",
+                    "list": "Three Star Restaurants",
+                    "year": 2025
+                }
+            ],
+            "celebrity_endorsements": [
+                "Chef Eric Ripert (owner/chef)",
+                "Featured on Chef's Table"
+            ]
+        },
+        "contact": {
+            "phone": "+1-212-554-1515",
+            "website": "https://le-bernardin.com",
+            "reservations_url": "https://resy.com/cities/ny/le-bernardin",
+            "social": {
+                "instagram": "@lebernardinny"
+            }
+        },
+        "hours": {
+            "monday": {
+                "closed": true
+            },
+            "tuesday": {
+                "lunch": "12:00-14:30",
+                "dinner": "17:00-22:00"
+            },
+            "wednesday": {
+                "lunch": "12:00-14:30",
+                "dinner": "17:00-22:00"
+            },
+            "thursday": {
+                "lunch": "12:00-14:30",
+                "dinner": "17:00-22:00"
+            },
+            "friday": {
+                "lunch": "12:00-14:30",
+                "dinner": "17:00-22:30"
+            },
+            "saturday": {
+                "dinner": "17:00-22:30"
+            },
+            "sunday": {
+                "closed": true
+            }
+        },
+        "experience": {
+            "price_range": "$$$$",
+            "avg_meal_cost": 180,
+            "dress_code": "Business Casual",
+            "reservation_difficulty": "very-high",
+            "lead_time_days": 30,
+            "party_size_max": 8,
+            "accepts_walk_ins": false,
+            "noise_level": "quiet",
+            "ambiance": [
+                "elegant",
+                "romantic",
+                "sophisticated"
+            ],
+            "signature_dishes": [
+                "Tuna Carpaccio",
+                "Barely Cooked Salmon",
+                "Black Bass"
+            ],
+            "dietary_accommodations": [
+                "vegetarian",
+                "gluten-free"
+            ]
+        },
+        "best_for": {
+            "occasions": [
+                "date-night",
+                "special-occasion",
+                "business-dinner"
+            ],
+            "time_of_day": [
+                "lunch",
+                "dinner"
+            ],
+            "weather": [
+                "any"
+            ],
+            "group_size": [
+                2,
+                4
+            ],
+            "seasons": [
+                "any"
+            ]
+        },
+        "sources": [
+            {
+                "type": "tavily_search",
+                "query": "Michelin star restaurants Manhattan",
+                "url": "https://guide.michelin.com/us/en/new-york-state/new-york/restaurants",
+                "retrieved_at": "2025-11-22T00:00:00Z"
+            }
+        ],
+        "created_at": "2025-11-22T00:00:00Z",
+        "updated_at": "2025-11-22T00:00:00Z",
+        "last_validated": "2025-11-22T00:00:00Z",
+        "validation_status": "verified",
+        "data_quality_score": 0.95
+    },
+    {
+        "_id": "mock_002",
+        "name": "Gramercy Tavern",
+        "slug": "gramercy-tavern",
+        "category": "fine-dining",
+        "subcategories": [
+            "american",
+            "contemporary",
+            "special-occasion"
+        ],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -73.9879,
+                40.7388
+            ]
+        },
+        "address": {
+            "street": "42 E 20th St",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10003",
+            "neighborhood": "Gramercy Park",
+            "borough": "Manhattan"
+        },
+        "prestige": {
+            "score": 95.0,
+            "michelin_stars": 1,
+            "michelin_since": 2006,
+            "james_beard_awards": [
+                "Outstanding Restaurant 2008",
+                "Best Chef NYC 2014"
+            ],
+            "nyt_stars": 3,
+            "best_of_lists": [
+                {
+                    "source": "Eater NY",
+                    "list": "Essential NYC Restaurants",
+                    "rank": 8
+                }
+            ],
+            "celebrity_endorsements": [
+                "Danny Meyer (restaurateur)"
+            ]
+        },
+        "contact": {
+            "phone": "+1-212-477-0777",
+            "website": "https://gramercy-tavern.com",
+            "reservations_url": "https://resy.com/cities/ny/gramercy-tavern"
+        },
+        "hours": {
+            "monday": {
+                "lunch": "12:00-14:00",
+                "dinner": "17:30-22:00"
+            },
+            "tuesday": {
+                "lunch": "12:00-14:00",
+                "dinner": "17:30-22:00"
+            },
+            "wednesday": {
+                "lunch": "12:00-14:00",
+                "dinner": "17:30-22:00"
+            },
+            "thursday": {
+                "lunch": "12:00-14:00",
+                "dinner": "17:30-22:00"
+            },
+            "friday": {
+                "lunch": "12:00-14:00",
+                "dinner": "17:30-23:00"
+            },
+            "saturday": {
+                "brunch": "11:00-14:00",
+                "dinner": "17:30-23:00"
+            },
+            "sunday": {
+                "brunch": "11:00-14:00",
+                "dinner": "17:30-22:00"
+            }
+        },
+        "experience": {
+            "price_range": "$$$",
+            "avg_meal_cost": 120,
+            "dress_code": "Smart Casual",
+            "reservation_difficulty": "high",
+            "lead_time_days": 14,
+            "party_size_max": 10,
+            "accepts_walk_ins": true,
+            "noise_level": "moderate",
+            "ambiance": [
+                "warm",
+                "rustic",
+                "welcoming"
+            ],
+            "signature_dishes": [
+                "Roasted Duck",
+                "Apple Tart",
+                "Seasonal Pasta"
+            ],
+            "dietary_accommodations": [
+                "vegetarian",
+                "vegan",
+                "gluten-free"
+            ]
+        },
+        "best_for": {
+            "occasions": [
+                "date-night",
+                "celebration",
+                "family-dinner"
+            ],
+            "time_of_day": [
+                "lunch",
+                "brunch",
+                "dinner"
+            ],
+            "weather": [
+                "any"
+            ],
+            "group_size": [
+                2,
+                4,
+                6
+            ],
+            "seasons": [
+                "any"
+            ]
+        },
+        "sources": [
+            {
+                "type": "tavily_search",
+                "query": "best American restaurants Manhattan",
+                "retrieved_at": "2025-11-22T00:00:00Z"
+            }
+        ],
+        "created_at": "2025-11-22T00:00:00Z",
+        "updated_at": "2025-11-22T00:00:00Z",
+        "validation_status": "verified",
+        "data_quality_score": 0.92
+    },
+    {
+        "_id": "mock_003",
+        "name": "Death & Co",
+        "slug": "death-and-co-east-village",
+        "category": "bars-cocktails",
+        "subcategories": [
+            "cocktail-bar",
+            "speakeasy",
+            "craft-cocktails"
+        ],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -73.9845,
+                40.7262
+            ]
+        },
+        "address": {
+            "street": "433 E 6th St",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10009",
+            "neighborhood": "East Village",
+            "borough": "Manhattan"
+        },
+        "prestige": {
+            "score": 75.0,
+            "best_of_lists": [
+                {
+                    "source": "Eater NY",
+                    "list": "Best Cocktail Bars NYC",
+                    "rank": 2
+                },
+                {
+                    "source": "Timeout",
+                    "list": "Best Bars in NYC",
+                    "year": 2025
+                }
+            ],
+            "celebrity_endorsements": [
+                "World's 50 Best Bars alumni"
+            ]
+        },
+        "contact": {
+            "phone": "+1-212-388-0882",
+            "website": "https://deathandcompany.com",
+            "reservations_url": "https://resy.com/cities/ny/death-and-company"
+        },
+        "hours": {
+            "monday": {
+                "closed": true
+            },
+            "tuesday": {
+                "open": "18:00",
+                "close": "02:00"
+            },
+            "wednesday": {
+                "open": "18:00",
+                "close": "02:00"
+            },
+            "thursday": {
+                "open": "18:00",
+                "close": "02:00"
+            },
+            "friday": {
+                "open": "18:00",
+                "close": "02:00"
+            },
+            "saturday": {
+                "open": "18:00",
+                "close": "02:00"
+            },
+            "sunday": {
+                "open": "18:00",
+                "close": "01:00"
+            }
+        },
+        "experience": {
+            "price_range": "$$",
+            "avg_meal_cost": 45,
+            "dress_code": "Casual",
+            "reservation_difficulty": "moderate",
+            "lead_time_days": 3,
+            "party_size_max": 6,
+            "accepts_walk_ins": true,
+            "noise_level": "moderate",
+            "ambiance": [
+                "intimate",
+                "moody",
+                "speakeasy-style"
+            ],
+            "signature_dishes": [
+                "Oaxaca Old-Fashioned",
+                "White Negroni",
+                "Seasonal Craft Cocktails"
+            ],
+            "dietary_accommodations": [
+                "non-alcoholic-options"
+            ]
+        },
+        "best_for": {
+            "occasions": [
+                "date-night",
+                "after-work",
+                "celebration"
+            ],
+            "time_of_day": [
+                "evening",
+                "late-night"
+            ],
+            "weather": [
+                "any"
+            ],
+            "group_size": [
+                2,
+                4
+            ],
+            "seasons": [
+                "any"
+            ]
+        },
+        "sources": [
+            {
+                "type": "tavily_search",
+                "query": "best cocktail bars Manhattan NYC",
+                "retrieved_at": "2025-11-22T00:00:00Z"
+            }
+        ],
+        "created_at": "2025-11-22T00:00:00Z",
+        "updated_at": "2025-11-22T00:00:00Z",
+        "validation_status": "verified",
+        "data_quality_score": 0.88
+    },
+    {
+        "_id": "mock_004",
+        "name": "Ess-a-Bagel",
+        "slug": "ess-a-bagel-midtown",
+        "category": "casual-dining",
+        "subcategories": [
+            "bagels",
+            "breakfast",
+            "deli"
+        ],
+        "location": {
+            "type": "Point",
+            "coordinates": [
+                -73.9701,
+                40.7559
+            ]
+        },
+        "address": {
+            "street": "831 3rd Ave",
+            "city": "New York",
+            "state": "NY",
+            "zip": "10022",
+            "neighborhood": "Midtown East",
+            "borough": "Manhattan"
+        },
+        "prestige": {
+            "score": 85.0,
+            "best_of_lists": [
+                {
+                    "source": "Eater NY",
+                    "list": "Best Bagels in NYC",
+                    "rank": 1
+                },
+                {
+                    "source": "Infatuation",
+                    "list": "NYC's Best Bagel Shops",
+                    "year": 2025
+                }
+            ],
+            "celebrity_endorsements": []
+        },
+        "contact": {
+            "phone": "+1-212-980-1010",
+            "website": "https://ess-a-bagel.com",
+            "social": {
+                "instagram": "@essabagelnynj"
+            }
+        },
+        "hours": {
+            "monday": {
+                "open": "06:00",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "06:00",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "06:00",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "06:00",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "06:00",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "06:00",
+                "close": "17:00"
+            },
+            "sunday": {
+                "open": "06:00",
+                "close": "17:00"
+            }
+        },
+        "experience": {
+            "price_range": "$",
+            "avg_meal_cost": 15,
+            "dress_code": "Casual",
+            "reservation_difficulty": "none",
+            "lead_time_days": 0,
+            "party_size_max": 20,
+            "accepts_walk_ins": true,
+            "noise_level": "loud",
+            "ambiance": [
+                "bustling",
+                "classic-nyc",
+                "fast-paced"
+            ],
+            "signature_dishes": [
+                "Everything Bagel with Scallion Cream Cheese",
+                "Signature Favorite (Lox)",
+                "Nova Sandwich"
+            ],
+            "dietary_accommodations": [
+                "vegetarian",
+                "kosher-style"
+            ]
+        },
+        "best_for": {
+            "occasions": [
+                "breakfast",
+                "quick-bite",
+                "hangover-cure"
+            ],
+            "time_of_day": [
+                "morning",
+                "lunch"
+            ],
+            "weather": [
+                "any"
+            ],
+            "group_size": [
+                1,
+                2,
+                4
+            ],
+            "seasons": [
+                "any"
+            ]
+        },
+        "sources": [
+            {
+                "type": "manual_entry",
+                "query": "best bagels NYC",
+                "retrieved_at": "2025-11-23T00:00:00Z"
+            }
+        ],
+        "created_at": "2025-11-23T00:00:00Z",
+        "updated_at": "2025-11-23T00:00:00Z",
+        "validation_status": "verified",
+        "data_quality_score": 0.90
+    }
+]

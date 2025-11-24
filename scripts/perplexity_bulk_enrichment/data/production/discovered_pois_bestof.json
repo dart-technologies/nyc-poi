@@ -1,0 +1,1864 @@
+[
+  {
+    "name": "Sal & Carmine Pizza",
+    "slug": "sal-and-carmine-pizza",
+    "address": {
+      "street": "245 E Houston St, New York, NY 10002",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Classic New York-style slices with a perfect balance of crust, sauce, and cheese; a local favorite with a strong reputation for quality and consistency."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777849"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777858",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Joe\u2019s Pizza (Carmine Street)",
+    "slug": "joe\u2019s-pizza-(carmine-street)",
+    "address": {
+      "street": "7 Carmine St, New York, NY 10014",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "The quintessential New York slice\u2014ultrathin, crisp yet chewy crust with balanced tomato sauce and cheese; a legendary spot with multiple locations."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777877"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777879",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Prince Street Pizza",
+    "slug": "prince-street-pizza",
+    "address": {
+      "street": "27 Prince St, New York, NY 10012",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Famous for its thick, Sicilian-style square pepperoni slices with crispy edges and \u201croni cups\u201d (pepperoni grease traps); celebrity favorite."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777888"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777890",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Baker\u2019s Pizza",
+    "slug": "baker\u2019s-pizza",
+    "address": {
+      "street": "509 E 5th St, New York, NY 10009",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Classic thin-crust slices with a loyal following; praised for its fresh ingredients and traditional flavors."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777897"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777899",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Sofia Pizza",
+    "slug": "sofia-pizza",
+    "address": {
+      "street": "116 MacDougal St, New York, NY 10012",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Authentic, flavorful slices with a focus on fresh toppings and a well-balanced crust."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777906"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777907",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Scarr\u2019s Pizza",
+    "slug": "scarr\u2019s-pizza",
+    "address": {
+      "street": "35 Orchard St, New York, NY 10002",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "A modern favorite with a cult following; known for its perfectly balanced slice with a crispy, thin crust and fresh ingredients."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777914"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777915",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Patsy\u2019s Pizzeria",
+    "slug": "patsy\u2019s-pizzeria",
+    "address": {
+      "street": "2287 1st Ave, New York, NY 10035",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Historic East Harlem pizzeria famous for its thin-crust, coal-oven baked slices with a smoky flavor."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777922"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777923",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Joe & Pat\u2019s",
+    "slug": "joe-and-pat\u2019s",
+    "address": {
+      "street": "1758 Victory Blvd, Staten Island, NY (not Manhattan but iconic)",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Thin-crust Sicilian slices with a crispy base and rich sauce; a Staten Island classic with NYC recognition."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777929"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777931",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Mama\u2019s Too",
+    "slug": "mama\u2019s-too",
+    "address": {
+      "street": "33 Havemeyer St, Brooklyn, NY (not Manhattan but influential)",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Square slices with a focaccia-like dough, seasonal toppings, and caramelized crust; a modern twist on classic styles."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777937"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777938",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "L\u2019Industrie Pizzeria",
+    "slug": "l\u2019industrie-pizzeria",
+    "address": {
+      "street": "211 E 43rd St, New York, NY 10017",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "New wave style with artisanal ingredients, thin crust, and creative toppings; highly rated by critics."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777945"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777947",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "John's of Bleecker Street",
+    "slug": "johns-of-bleecker-street",
+    "address": {
+      "street": "278 Bleecker St, New York, NY 10014",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Classic coal-fired brick oven pizza with a chewy crust and rich sauce; a staple of Greenwich Village."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777953"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777955",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Rubirosa",
+    "slug": "rubirosa",
+    "address": {
+      "street": "235 Mulberry St, New York, NY 10012",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Thin-crust, crispy yet chewy slices with a slightly sweet sauce; a family-run favorite in Nolita."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777960"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777962",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Bleecker Street Pizza",
+    "slug": "bleecker-street-pizza",
+    "address": {
+      "street": "69 7th Ave S, New York, NY 10014",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Thin, crispy slices with a perfect cheese-to-sauce ratio; a popular spot in the West Village."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777968"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777969",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Philomena\u2019s",
+    "slug": "philomena\u2019s",
+    "address": {
+      "street": "4116 Queens Blvd, Sunnyside, NY (Queens but often included in NYC top lists)",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Classic New York slices with a focus on fresh, high-quality ingredients and a balanced crust."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777975"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777976",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "Bar Birra",
+    "slug": "bar-birra",
+    "address": {
+      "street": "33 E 7th St, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Square slices with a crispy crust and natural wine pairing; a modern, trendy spot in the East Village."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_pizza",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:18:22.777982"
+      }
+    ],
+    "created_at": "2025-11-23T11:18:22.777984",
+    "enrichment_status": "pending_social",
+    "time_context": "afternoon",
+    "category": "casual-dining",
+    "best_of_list": "best_pizza"
+  },
+  {
+    "name": "The Raines Law Room",
+    "slug": "the-raines-law-room",
+    "address": {
+      "street": "48 W 17th St (Chelsea) & 355 W 46th St (Midtown, The William)",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Intimate, elegant speakeasy atmosphere with expertly crafted cocktails and a discreet, private vibe reminiscent of Prohibition-era bars. Two locations offer cozy escapes with quality drinks and attentive service. Signature cocktail: 7th Millennium."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_speakeasy",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:07.879800"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:07.879807",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_casual",
+    "category": "bars-cocktails",
+    "best_of_list": "best_speakeasy"
+  },
+  {
+    "name": "Please Don't Tell (PDT)",
+    "slug": "please-dont-tell-(pdt)",
+    "address": {
+      "street": "113 St Marks Pl, East Village",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "One of the first modern speakeasies, accessed through a phone booth inside a hot dog joint. Famous for creative, high-quality cocktails and a unique hidden entrance."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_speakeasy",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:07.879818"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:07.879820",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_casual",
+    "category": "bars-cocktails",
+    "best_of_list": "best_speakeasy"
+  },
+  {
+    "name": "Nothing Really Matters",
+    "slug": "nothing-really-matters",
+    "address": {
+      "street": "210 W 50th St, Midtown (inside a subway station)",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Newer speakeasy with no entry code, known for inventive cocktails using exciting ingredients. Signature drink: The Dancing Queen."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_speakeasy",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:07.879829"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:07.879830",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_casual",
+    "category": "bars-cocktails",
+    "best_of_list": "best_speakeasy"
+  },
+  {
+    "name": "Madame George",
+    "slug": "madame-george",
+    "address": {
+      "street": "Near Rockefeller Center, Midtown Manhattan",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Stylish speakeasy with live jazz music and burlesque performances, serving unique cocktails like the Andy Warhol Soup Can."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_speakeasy",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:07.879836"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:07.879837",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_casual",
+    "category": "bars-cocktails",
+    "best_of_list": "best_speakeasy"
+  },
+  {
+    "name": "The Garrett",
+    "slug": "the-garrett",
+    "address": {
+      "street": "Above Five Guys, 296 Bleecker St, West Village",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Hidden above a burger joint, offering a chic grunge atmosphere with lots of natural light and creative cocktails. Signature drink: 3 AM in K-Town."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_speakeasy",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:07.879842"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:07.879843",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_casual",
+    "category": "bars-cocktails",
+    "best_of_list": "best_speakeasy"
+  },
+  {
+    "name": "Employees Only",
+    "slug": "employees-only",
+    "address": {
+      "street": "510 Hudson St, West Village",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Iconic speakeasy with a discreet entrance and intimate, dimly lit ambiance. Known for classic cocktails like the Manhattan and expert bartenders."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_speakeasy",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:07.879848"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:07.879849",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_casual",
+    "category": "bars-cocktails",
+    "best_of_list": "best_speakeasy"
+  },
+  {
+    "name": "Bathtub Gin",
+    "slug": "bathtub-gin",
+    "address": {
+      "street": "132 9th Ave, Chelsea",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Prohibition-style speakeasy with a vintage vibe, hidden behind a coffee shop facade, serving classic and creative cocktails in a lively setting."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_speakeasy",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:07.879854"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:07.879854",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_casual",
+    "category": "bars-cocktails",
+    "best_of_list": "best_speakeasy"
+  },
+  {
+    "name": "Attaboy",
+    "slug": "attaboy",
+    "address": {
+      "street": "134 Eldridge St, Lower East Side",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "No-menu speakeasy where bartenders craft personalized cocktails based on your preferences, known for strong, expertly made drinks in a relaxed setting."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "best_speakeasy",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:07.879859"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:07.879860",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_casual",
+    "category": "bars-cocktails",
+    "best_of_list": "best_speakeasy"
+  },
+  {
+    "name": "Eleven Madison Park",
+    "slug": "eleven-madison-park",
+    "address": {
+      "street": "11 Madison Ave, New York, NY 10010",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Innovative, plant-based tasting menus in a historic art-deco space; consistently ranked among the world\u2019s best restaurants."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864161"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864168",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Le Bernardin",
+    "slug": "le-bernardin",
+    "address": {
+      "street": "155 W 51st St, New York, NY 10019",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Legendary French seafood, three Michelin stars, multiple James Beard Awards, and world-class wine list."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864181"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864182",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Daniel",
+    "slug": "daniel",
+    "address": {
+      "street": "60 E 65th St, New York, NY 10065",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Refined French cuisine, two Michelin stars, and a James Beard Award-winning chef. Elegant, classic fine dining."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864191"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864192",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Per Se",
+    "slug": "per-se",
+    "address": {
+      "street": "10 Columbus Circle, New York, NY 10019",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Thomas Keller\u2019s flagship NYC restaurant, three Michelin stars, tasting menus with French-American influences."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864200"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864201",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Masa",
+    "slug": "masa",
+    "address": {
+      "street": "10 Columbus Circle, New York, NY 10019",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "World-renowned sushi omakase, three Michelin stars, and one of the most expensive dining experiences in NYC."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864208"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864209",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Jean-Georges",
+    "slug": "jean-georges",
+    "address": {
+      "street": "1 Central Park West, New York, NY 10023",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "French-Asian fusion, two Michelin stars, James Beard Award-winning chef, and stunning Central Park views."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864215"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864217",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Gabriel Kreuther",
+    "slug": "gabriel-kreuther",
+    "address": {
+      "street": "41 W 42nd St, New York, NY 10036",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Alsatian-inspired cuisine, two Michelin stars, James Beard Award winner, and elegant, modern dining room."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864228"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864230",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "The Modern",
+    "slug": "the-modern",
+    "address": {
+      "street": "9 W 53rd St, New York, NY 10019",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "French-American tasting menus, two Michelin stars, and a sleek, contemporary setting overlooking MoMA\u2019s sculpture garden."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864237"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864238",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Aquavit",
+    "slug": "aquavit",
+    "address": {
+      "street": "65 E 55th St, New York, NY 10022",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Scandinavian cuisine, two Michelin stars, and a James Beard Award-winning chef. Modern, elegant, and inventive."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864244"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864245",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Caf\u00e9 Boulud",
+    "slug": "caf\u00e9-boulud",
+    "address": {
+      "street": "20 E 76th St, New York, NY 10021",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "French bistro and fine dining, one Michelin star, James Beard Award-winning chef Daniel Boulud."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864266"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864267",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Gramercy Tavern",
+    "slug": "gramercy-tavern",
+    "address": {
+      "street": "42 E 20th St, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Seasonal American cuisine, one Michelin star, James Beard Award-winning, and a warm, welcoming atmosphere."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864273"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864275",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Crown Shy",
+    "slug": "crown-shy",
+    "address": {
+      "street": "70 Pine St, New York, NY 10005",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Elevated American tasting menus, one Michelin star, and a James Beard Award-winning chef."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864282"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864283",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Estela",
+    "slug": "estela",
+    "address": {
+      "street": "47 E Houston St, New York, NY 10012",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Creative, globally inspired small plates, one Michelin star, and a James Beard Award-winning chef."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864289"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864290",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Dirt Candy",
+    "slug": "dirt-candy",
+    "address": {
+      "street": "86 Allen St, New York, NY 10002",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Vegetarian tasting menus, one Michelin star, and a James Beard Award-winning chef. Inventive and playful."
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864296"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864298",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  },
+  {
+    "name": "Francie",
+    "slug": "francie",
+    "address": {
+      "street": "18 Bedford Ave, Brooklyn, NY 11222",
+      "city": "New York",
+      "state": "NY",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "social": {}
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "French-Italian cuisine, one Michelin star, and a James Beard Award-winning chef. (Note: Located in Brooklyn, but widely considered a top NYC fine dining destination.)"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [],
+      "occasions": [],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "must_try_fine_dining",
+        "citations": [],
+        "retrieved_at": "2025-11-23T11:19:24.864304"
+      }
+    ],
+    "created_at": "2025-11-23T11:19:24.864305",
+    "enrichment_status": "pending_social",
+    "time_context": "evening_prestige",
+    "category": "fine-dining",
+    "best_of_list": "must_try_fine_dining"
+  }
+]

@@ -1,0 +1,11 @@
+name: nyc-poi-server
+description: "NYC POI Concierge - Restaurant discovery with prestige-first curation using Michelin, James Beard, and NYT validation"
+execution_engine: asyncio
+
+logger:
+  transports: [console]
+  level: info
+  progress_display: true
+
+openai:
+  default_model: gpt-4o-mini

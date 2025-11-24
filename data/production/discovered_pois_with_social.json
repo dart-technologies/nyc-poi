@@ -1,0 +1,5040 @@
+[
+  {
+    "name": "Liberty Bagels Midtown",
+    "slug": "liberty-bagels-midtown",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "260 W 35th St, New York, NY 10001",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 221-0333",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "6:00 AM \u2013 6:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Freshly baked traditional NY bagels, rainbow bagels, creative cream cheese flavors"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:40:44.829858"
+      }
+    ],
+    "created_at": "2025-11-23T10:40:44.829871",
+    "time_context": "morning"
+  },
+  {
+    "name": "Ess-a-Bagel",
+    "slug": "ess-a-bagel",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels",
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "108 W 32nd St, New York, NY 10001",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 967-7575",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "6:00 AM \u2013 7:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Classic NY bagels, generous cream cheese portions, bagel sandwiches"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:40:44.829892"
+      }
+    ],
+    "created_at": "2025-11-23T10:40:44.829894",
+    "time_context": "morning"
+  },
+  {
+    "name": "Levain Bakery",
+    "slug": "levain-bakery",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "167 W 74th St, New York, NY 10023 (Upper West Side, but highly recommended for Midtown West visitors)",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 874-6080",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "7:00 AM \u2013 7:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Famous chocolate chip cookies, artisan breads, pastries"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:40:44.829906"
+      }
+    ],
+    "created_at": "2025-11-23T10:40:44.829907",
+    "time_context": "morning"
+  },
+  {
+    "name": "Bubby\u2019s High Line",
+    "slug": "bubby\u2019s-high-line",
+    "category": "casual-dining",
+    "subcategories": [
+      "coffee",
+      "breakfast"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "550 Washington St, New York, NY 10014",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 633-9094",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "8:00 AM \u2013 10:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Classic American breakfast, pancakes, brunch, coffee"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:40:44.830445"
+      }
+    ],
+    "created_at": "2025-11-23T10:40:44.830490",
+    "time_context": "morning"
+  },
+  {
+    "name": "Joe\u2019s Shanghai",
+    "slug": "joe\u2019s-shanghai",
+    "category": "casual-dining",
+    "subcategories": [
+      "breakfast"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "41 W 26th St, New York, NY 10010",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 244-8158",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:00 AM \u2013 10:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Soup dumplings, dim sum, breakfast/brunch options"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:40:44.830519"
+      }
+    ],
+    "created_at": "2025-11-23T10:40:44.830536",
+    "time_context": "morning"
+  },
+  {
+    "name": "La Grande Boucherie NYC",
+    "slug": "la-grande-boucherie-nyc",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "11 W 52nd St, New York, NY 10019",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 581-0200",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM \u2013 11:00 PM (varies by day)"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "French bistro classics, steak frites, charcuterie board"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:00.068223"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:00.068258",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Gallaghers Steakhouse - Manhattan",
+    "slug": "gallaghers-steakhouse---manhattan",
+    "category": "casual-dining",
+    "subcategories": [
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "228 W 52nd St, New York, NY 10019",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 245-8800",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM \u2013 11:00 PM (varies by day)"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Classic steak sandwiches, prime rib, New York strip"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:00.068282"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:00.068284",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Del Frisco's Double Eagle Steakhouse - New York City",
+    "slug": "del-friscos-double-eagle-steakhouse---new-york-city",
+    "category": "casual-dining",
+    "subcategories": [
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "132 W 44th St, New York, NY 10036",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 764-3700",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM \u2013 11:00 PM (varies by day)"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Steak sandwiches, seafood towers, Caesar salad"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:00.068292"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:00.068293",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Quality Bistro",
+    "slug": "quality-bistro",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "105 W 53rd St, New York, NY 10019",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 245-3100",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM \u2013 11:00 PM (varies by day)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Burger, chopped salad, lobster roll"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:00.068300"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:00.068301",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Carnegie Diner & Caf\u00e9",
+    "slug": "carnegie-diner-&-caf\u00e9",
+    "category": "casual-dining",
+    "subcategories": [
+      "breakfast",
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "828 8th Ave, New York, NY 10019",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 245-1000",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "24 hours"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Classic diner sandwiches, breakfast all day, salads"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:00.068313"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:00.068314",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "La Masseria",
+    "slug": "la-masseria",
+    "category": "casual-dining",
+    "subcategories": [
+      "pizza"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "11 W 46th St, New York, NY 10036",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 221-9500",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM \u2013 10:30 PM (varies by day)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Wood-fired pizzas, Italian salads, pasta"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:00.068325"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:00.068326",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "E.A.K. RAMEN and IZAKAYA by Machida Shoten",
+    "slug": "e.a.k.-ramen-and-izakaya-by-machida-shoten",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "620 8th Ave, New York, NY 10018",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 221-1111",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM \u2013 10:00 PM (varies by day)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Ramen bowls, quick bites, Japanese small plates"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:00.068337"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:00.068338",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Los Tacos No 1",
+    "slug": "los-tacos-no-1",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "Chelsea Market, 75 9th Ave, New York, NY 10011",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 695-3111",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:00 AM \u2013 9:00 PM (varies by day)"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Tacos (al pastor, carne asada), quick bites"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:00.068345"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:00.068346",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Magic Hour Rooftop Bar & Lounge",
+    "slug": "magic-hour-rooftop-bar-&-lounge",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "230 W 44th St, New York, NY 10036",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 245-1200",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "4:00 PM\u201312:00 AM (varies by day)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Rooftop views, creative cocktails, vibrant atmosphere"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:16.015489"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:16.015527",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "The Rag Trader",
+    "slug": "the-rag-trader",
+    "category": "bars-cocktails",
+    "subcategories": [
+      "cocktails"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "100 W 37th St, New York, NY 10018",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 221-0000",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM\u201312:00 AM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Craft cocktails, rustic American fare, vintage piano bar"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:16.015629"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:16.015634",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Bo Peep Cocktail & Highball Store",
+    "slug": "bo-peep-cocktail-&-highball-store",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "100 W 37th St (basement), New York, NY 10018",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 221-0000",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "5:00 PM\u201312:00 AM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Handcrafted cocktails, live piano music, intimate hideaway vibe"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:16.015644"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:16.015645",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Mustang Harry\u2019s",
+    "slug": "mustang-harry\u2019s",
+    "category": "bars-cocktails",
+    "subcategories": [
+      "cocktails"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "218 W 47th St, New York, NY 10036",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 245-1100",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM\u20132:00 AM (Happy Hour: 2:00\u20135:00 PM & 12:00\u20132:00 AM)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Irish gastropub fare, extensive whiskey selection, sports bar energy"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:16.015921"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:16.015934",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Porchlight Bar",
+    "slug": "porchlight-bar",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "271 11th Ave, New York, NY 10001",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 695-7155",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "3:00 PM\u201310:00 PM (Sun), 3:00 PM\u201312:00 AM (Mon\u2013Wed), 3:00 PM\u20132:00 AM (Thu\u2013Sat)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Happy hour all day (Sun), craft cocktails, cozy Chelsea vibe"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:16.015972"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:16.015976",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Calle Dao \u2013 Bryant Park",
+    "slug": "calle-dao-\u2013-bryant-park",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "45 W 40th St, New York, NY 10018",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown West",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 221-5600",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM\u201310:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Modern Chinese cuisine, inventive cocktails, stylish ambiance"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown West",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:41:16.016000"
+      }
+    ],
+    "created_at": "2025-11-23T10:41:16.016004",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Liberty Bagels Midtown",
+    "slug": "liberty-bagels-midtown",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels",
+      "breakfast",
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "119 W 31st St, New York, NY 10001",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 279-1111",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "7:00 AM \u2013 6:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Traditional NY-style bagels, variety of flavored cream cheeses, breakfast sandwiches"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:42:03.191210"
+      }
+    ],
+    "created_at": "2025-11-23T10:42:03.191393",
+    "time_context": "morning"
+  },
+  {
+    "name": "Ess-a-Bagel",
+    "slug": "ess-a-bagel",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels",
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "108 W 32nd St, New York, NY 10001",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 967-7575",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "6:00 AM \u2013 6:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Iconic NYC bagels, generous cream cheese portions, classic bagel sandwiches"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:42:03.192484"
+      }
+    ],
+    "created_at": "2025-11-23T10:42:03.192498",
+    "time_context": "morning"
+  },
+  {
+    "name": "Madman Espresso & Bagels",
+    "slug": "madman-espresso-&-bagels",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels",
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "218 E 49th St, New York, NY 10017",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 688-2243",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "7:00 AM \u2013 5:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Crispy bagels, espresso, bacon egg and cheese sandwiches"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:42:03.192580"
+      }
+    ],
+    "created_at": "2025-11-23T10:42:03.192599",
+    "time_context": "morning"
+  },
+  {
+    "name": "Le Cafe Coffee",
+    "slug": "le-cafe-coffee",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "218 E 49th St, New York, NY 10017",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 758-2233",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "7:00 AM \u2013 7:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Classic bagels, avocado toast, cappuccinos"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:42:03.192706"
+      }
+    ],
+    "created_at": "2025-11-23T10:42:03.192713",
+    "time_context": "morning"
+  },
+  {
+    "name": "Slate Cafe Midtown",
+    "slug": "slate-cafe-midtown",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "155 E 49th St, New York, NY 10017",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 688-2243",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "7:00 AM \u2013 8:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Everything bagel with smoked salmon, cozy ambiance, brunch"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:42:03.192735"
+      }
+    ],
+    "created_at": "2025-11-23T10:42:03.192738",
+    "time_context": "morning"
+  },
+  {
+    "name": "Hudson Malone",
+    "slug": "hudson-malone",
+    "category": "bars-cocktails",
+    "subcategories": [
+      "cocktails"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "218 E 53rd St, New York, NY 10022",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Mon\u2013Fri 4:00 PM\u201312:00 AM"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Classic cocktails, relaxed bar atmosphere, after-work drinks"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:42:48.050320"
+      }
+    ],
+    "created_at": "2025-11-23T10:42:48.050472",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Magic Hour Rooftop Bar & Lounge",
+    "slug": "magic-hour-rooftop-bar-&-lounge",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "230 5th Ave, New York, NY 10001",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 685-1010",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Varies (typically 4:00 PM\u201312:00 AM)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Rooftop views, creative cocktails, lively happy hour"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:42:48.050492"
+      }
+    ],
+    "created_at": "2025-11-23T10:42:48.050493",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Ted\u2019s Montana Grill \u2013 NYC",
+    "slug": "ted\u2019s-montana-grill-\u2013-nyc",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "151 E 50th St, New York, NY 10022",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 751-0001",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Mon\u2013Fri 11:30 AM\u201311:00 PM, Sat\u2013Sun 12:00 PM\u201310:00 PM"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "American bison burgers, craft beer, casual happy hour"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:42:48.050547"
+      }
+    ],
+    "created_at": "2025-11-23T10:42:48.050550",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Papillon Bistro and Bar",
+    "slug": "papillon-bistro-and-bar",
+    "category": "bars-cocktails",
+    "subcategories": [
+      "wine-bar"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "135 E 50th St, New York, NY 10022",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 752-1111",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Mon\u2013Fri 11:30 AM\u201311:00 PM, Sat\u2013Sun 5:00 PM\u201311:00 PM"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "French bistro fare, wine list, cozy cocktails"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:42:48.050563"
+      }
+    ],
+    "created_at": "2025-11-23T10:42:48.050564",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "TAO Uptown",
+    "slug": "tao-uptown",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "122 E 58th St, New York, NY 10022",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 688-9898",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Mon\u2013Fri 5:00 PM\u201312:00 AM, Sat\u2013Sun 5:00 PM\u20131:00 AM"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Pan-Asian cuisine, stylish cocktails, upscale happy hour"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:42:48.050573"
+      }
+    ],
+    "created_at": "2025-11-23T10:42:48.050573",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Calle Dao \u2013 Bryant Park",
+    "slug": "calle-dao-\u2013-bryant-park",
+    "category": "bars-cocktails",
+    "subcategories": [
+      "cocktails"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "25 W 40th St, New York, NY 10018",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 221-7000",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Mon\u2013Fri 11:30 AM\u201311:00 PM, Sat\u2013Sun 5:00 PM\u201311:00 PM"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Chinese tapas, creative cocktails, vibrant bar scene"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:42:48.050582"
+      }
+    ],
+    "created_at": "2025-11-23T10:42:48.050583",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Le Bernardin",
+    "slug": "le-bernardin",
+    "category": "fine-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "155 W 51st St, New York, NY 10019",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 554-1515",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Dinner: Mon\u2013Sat 5:15\u201310:00 PM; Lunch: Mon\u2013Fri 12:00\u20132:30 PM"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Exquisite seafood, tuna carpaccio with foie gras, flawless French technique"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "date-night",
+        "special-occasion",
+        "business-dinner"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_prestige in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:05.497155"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:05.497204",
+    "time_context": "evening_prestige"
+  },
+  {
+    "name": "Gabriel Kreuther",
+    "slug": "gabriel-kreuther",
+    "category": "fine-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "41 W 42nd St, New York, NY 10036",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 972-4355",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Dinner: Mon\u2013Sat 5:30\u20139:30 PM; Lunch: Mon\u2013Fri 12:00\u20132:30 PM"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Alsatian-inspired cuisine, luxurious tasting menus, house-made charcuterie"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "date-night",
+        "special-occasion",
+        "business-dinner"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_prestige in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:05.497240"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:05.497242",
+    "time_context": "evening_prestige"
+  },
+  {
+    "name": "Jean-Georges",
+    "slug": "jean-georges",
+    "category": "fine-dining",
+    "subcategories": [
+      "pizza"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "1 Central Park West, New York, NY 10023",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 299-3900",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Dinner: Sun\u2013Thu 5:30\u20139:30 PM, Fri\u2013Sat 5:30\u201310:00 PM; Lunch: Mon\u2013Fri 12:00\u20132:30 PM"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Modern French-American cuisine, signature foie gras, truffle pizza"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "date-night",
+        "special-occasion",
+        "business-dinner"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_prestige in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:05.497252"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:05.497253",
+    "time_context": "evening_prestige"
+  },
+  {
+    "name": "Aquavit",
+    "slug": "aquavit",
+    "category": "fine-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "54 E 55th St, New York, NY 10022",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 213-6080",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Dinner: Mon\u2013Sat 5:30\u201310:00 PM; Lunch: Mon\u2013Fri 12:00\u20132:30 PM"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Scandinavian cuisine, caviar, house-cured gravlax"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "date-night",
+        "special-occasion",
+        "business-dinner"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_prestige in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:05.497650"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:05.497659",
+    "time_context": "evening_prestige"
+  },
+  {
+    "name": "Joo Ok",
+    "slug": "joo-ok",
+    "category": "fine-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "116 E 32nd St, New York, NY 10016",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 685-0222",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Dinner: Mon\u2013Sat 5:30\u201310:00 PM"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Modern Korean fine dining, signature galbi, refined tasting menus"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "date-night",
+        "special-occasion",
+        "business-dinner"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_prestige in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:05.497698"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:05.497709",
+    "time_context": "evening_prestige"
+  },
+  {
+    "name": "Sushi Noz",
+    "slug": "sushi-noz",
+    "category": "fine-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "181 E 78th St, New York, NY 10075",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Midtown East",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 452-3333",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Dinner: Tue\u2013Sat 5:30\u20139:30 PM"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Edomae-style omakase, pristine sushi, intimate counter experience"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "date-night",
+        "special-occasion",
+        "business-dinner"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_prestige in Midtown East",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:05.497722"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:05.497723",
+    "time_context": "evening_prestige"
+  },
+  {
+    "name": "Murray\u2019s Bagels",
+    "slug": "murray\u2019s-bagels",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels",
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "1196 Broadway, New York, NY 10001",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 675-1155",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "6:00 AM \u2013 6:00 PM (varies by day)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Classic New York bagels, lox sandwiches, cream cheese spreads"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:21.441168"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:21.441346",
+    "time_context": "morning"
+  },
+  {
+    "name": "Tompkins Square Bagels",
+    "slug": "tompkins-square-bagels",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels",
+      "breakfast",
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "108 E 14th St, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 253-0888",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "6:00 AM \u2013 8:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Hand-rolled bagels, creative cream cheese flavors, breakfast sandwiches"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:21.441398"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:21.441402",
+    "time_context": "morning"
+  },
+  {
+    "name": "Joe\u2019s Shanghai",
+    "slug": "joe\u2019s-shanghai",
+    "category": "casual-dining",
+    "subcategories": [
+      "breakfast"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "46 Bowery, New York, NY 10013 (near Chelsea, often cited for breakfast)",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 233-8888",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "10:00 AM \u2013 10:00 PM"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Soup dumplings, breakfast dim sum, steamed buns"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:21.441422"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:21.441424",
+    "time_context": "morning"
+  },
+  {
+    "name": "The Smith",
+    "slug": "the-smith",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "956 2nd Ave, New York, NY 10022 (near Chelsea, popular for brunch)",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 865-1900",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "7:00 AM \u2013 11:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Brunch classics, eggs Benedict, pancakes, cocktails"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:21.441443"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:21.441445",
+    "time_context": "morning"
+  },
+  {
+    "name": "Sarabeth\u2019s",
+    "slug": "sarabeth\u2019s",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "845 Madison Ave, New York, NY 10021 (near Chelsea, Upper East Side location)",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 737-8700",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "7:00 AM \u2013 4:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Brunch, pancakes, baked goods, lemon ricotta pancakes"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:21.441468"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:21.441472",
+    "time_context": "morning"
+  },
+  {
+    "name": "Los Tacos No. 1",
+    "slug": "los-tacos-no.-1",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "75 Ninth Ave, Chelsea Market, New York, NY 10011",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 242-1212",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:00 AM \u2013 8:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Authentic al pastor tacos, carne asada tacos"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:35.235988"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:35.236000",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Chelsea Ristorante",
+    "slug": "chelsea-ristorante",
+    "category": "casual-dining",
+    "subcategories": [
+      "pizza"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "230 W 20th St, New York, NY 10011",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 675-1200",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM \u2013 11:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Wood-fired brick oven pizza, Italian antipasti"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:35.236015"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:35.236017",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "The Halal Guys",
+    "slug": "the-halal-guys",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "230 W 23rd St, New York, NY 10011",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:00 AM \u2013 12:00 AM (varies)"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Chicken and gyro platters, white sauce"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:35.236024"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:35.236025",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Bocca Di Bacco (Chelsea - 20th St.)",
+    "slug": "bocca-di-bacco-(chelsea---20th-st.)",
+    "category": "casual-dining",
+    "subcategories": [
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "120 W 20th St, New York, NY 10011",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 243-2222",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "12:00 PM \u2013 10:30 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Italian sandwiches, pasta, salads"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:35.236032"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:35.236032",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "abcV",
+    "slug": "abcv",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "38 E 19th St, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 475-5829",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM \u2013 10:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Seasonal vegetable dishes, salads, vegetarian fare"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:35.236040"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:35.236040",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Stretch Pizza",
+    "slug": "stretch-pizza",
+    "category": "casual-dining",
+    "subcategories": [
+      "pizza"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "174 5th Ave, New York, NY 10010",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 242-0077",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:00 AM \u2013 10:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Creative toppings, chewy-crisp crust, Old Town pizza"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:35.236047"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:35.236048",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Chelsea Market Baskets",
+    "slug": "chelsea-market-baskets",
+    "category": "casual-dining",
+    "subcategories": [
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "75 Ninth Ave, Chelsea Market, New York, NY 10011",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 695-2600",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:00 AM \u2013 8:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Gourmet sandwiches, salads, quick bites"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:35.236055"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:35.236056",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Papillon Bistro and Bar",
+    "slug": "papillon-bistro-and-bar",
+    "category": "casual-dining",
+    "subcategories": [
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "200 W 23rd St, New York, NY 10011",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Chelsea",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 243-8800",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:30 AM \u2013 11:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "French bistro fare, sandwiches, salads"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in Chelsea",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:43:35.236062"
+      }
+    ],
+    "created_at": "2025-11-23T10:43:35.236063",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Bandits",
+    "slug": "bandits",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "44 Bedford St, New York, NY 10014",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Greenwich Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Mon\u2013Wed 4pm\u20132am; Thu\u2013Sat 1pm\u20134am; Sun 1pm\u20132am"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Burgers, inventive cocktails, Martini Monday, burger+beer happy hour"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Greenwich Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:45:30.282508"
+      }
+    ],
+    "created_at": "2025-11-23T10:45:30.282532",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "The Happiest Hour",
+    "slug": "the-happiest-hour",
+    "category": "bars-cocktails",
+    "subcategories": [
+      "cocktails"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "291 Bleecker St, New York, NY 10014",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Greenwich Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Varies (typically 4pm\u201312am)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Double burger, fries, beer or cocktail combo, lively cocktail bar"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Greenwich Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:45:30.282571"
+      }
+    ],
+    "created_at": "2025-11-23T10:45:30.282576",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "3 Sheets",
+    "slug": "3-sheets",
+    "category": "bars-cocktails",
+    "subcategories": [
+      "cocktails"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "130 W 4th St, New York, NY 10012",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Greenwich Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "2:00 PM \u2013 7:00 PM (Happy Hour), daily"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Happy hour cocktails, casual bar vibe"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Greenwich Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:45:30.282596"
+      }
+    ],
+    "created_at": "2025-11-23T10:45:30.282599",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Amelie (West Village)",
+    "slug": "amelie-(west-village)",
+    "category": "bars-cocktails",
+    "subcategories": [
+      "cocktails",
+      "wine-bar"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "170 W 4th St, New York, NY 10012",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Greenwich Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "4:00 PM \u2013 6:00 PM (Happy Hour), daily"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "French-inspired wine bar, wine and small plates"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Greenwich Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:45:30.282618"
+      }
+    ],
+    "created_at": "2025-11-23T10:45:30.282620",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Birds",
+    "slug": "birds",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "64 Downing St, New York, NY 10014",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Greenwich Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Varies (typically 5pm\u20132am)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Classic cocktails, live jazz, intimate date-night atmosphere"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Greenwich Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:45:30.282651"
+      }
+    ],
+    "created_at": "2025-11-23T10:45:30.282654",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Blue Haven",
+    "slug": "blue-haven",
+    "category": "bars-cocktails",
+    "subcategories": [
+      "cocktails"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "120 W 4th St, New York, NY 10012",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "Greenwich Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "Varies (typically 11am\u20132am)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Sports bar, multiple TVs, cocktails, after-work drinks"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in Greenwich Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:45:30.282672"
+      }
+    ],
+    "created_at": "2025-11-23T10:45:30.282675",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Tompkins Square Bagels",
+    "slug": "tompkins-square-bagels",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "108 E 7th St, New York, NY 10009",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 477-0108",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "7:00 AM \u2013 7:00 PM (varies by location)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Hand-rolled, kettle-boiled bagels; wide selection of house-made cream cheese spreads"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:16.396230"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:16.396238",
+    "time_context": "morning"
+  },
+  {
+    "name": "Bagel Belly",
+    "slug": "bagel-belly",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels",
+      "breakfast",
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "201 E 3rd St, New York, NY 10009",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 253-0002",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "7:00 AM \u2013 6:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Everything bagel breakfast sandwich, gluten-free bagels, homemade spreads"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:16.396265"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:16.396267",
+    "time_context": "morning"
+  },
+  {
+    "name": "Kossar\u2019s Bialys",
+    "slug": "kossar\u2019s-bialys",
+    "category": "casual-dining",
+    "subcategories": [
+      "bagels"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "367 Grand St, New York, NY 10002 (Lower East Side, just north of East Village)",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 477-5040",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "7:00 AM \u2013 6:00 PM"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Bialys (Polish onion rolls), bagels, traditional Jewish bakery items"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:16.396489"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:16.396491",
+    "time_context": "morning"
+  },
+  {
+    "name": "Veselka",
+    "slug": "veselka",
+    "category": "casual-dining",
+    "subcategories": [
+      "coffee",
+      "breakfast"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "144 2nd Ave, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 254-2251",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "24 hours"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Ukrainian breakfast (eggs, pierogi, borscht), brunch, coffee"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:16.396504"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:16.396506",
+    "time_context": "morning"
+  },
+  {
+    "name": "Clinton Street Baking Company",
+    "slug": "clinton-street-baking-company",
+    "category": "casual-dining",
+    "subcategories": [
+      "coffee"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "4 Clinton St, New York, NY 10002 (Lower East Side, near East Village)",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 777-2286",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "8:00 AM \u2013 3:00 PM (weekdays), 8:00 AM \u2013 4:00 PM (weekends)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Blueberry pancakes, brunch, baked goods, coffee"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "morning"
+      ],
+      "occasions": [
+        "breakfast",
+        "business-breakfast"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "morning in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:16.396517"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:16.396518",
+    "time_context": "morning"
+  },
+  {
+    "name": "Motorino",
+    "slug": "motorino",
+    "category": "casual-dining",
+    "subcategories": [
+      "pizza"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "349 E 12th St, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 777-2626",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "12:00 PM \u2013 10:00 PM (varies by day)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Neapolitan-style pizza, especially the Margherita and Brussels Sprout pizza"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:32.058256"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:32.058268",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Gemma",
+    "slug": "gemma",
+    "category": "casual-dining",
+    "subcategories": [
+      "pizza"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "212 Bowery, New York, NY 10002",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 253-2121",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "8:00 AM \u2013 10:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Italian-inspired lunch, salads, and wood-fired pizzas"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:32.058300"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:32.058303",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Gnocco",
+    "slug": "gnocco",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "228 E 5th St, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 475-0077",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "5:00 PM \u2013 10:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Italian small plates, gnocchi, and salads"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:32.058317"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:32.058319",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Luke\u2019s Lobster",
+    "slug": "luke\u2019s-lobster",
+    "category": "casual-dining",
+    "subcategories": [
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "120 E 7th St, New York, NY 10009",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 475-7827",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "11:00 AM \u2013 8:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Lobster roll, lobster grilled cheese sandwich"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:32.058569"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:32.058577",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Crif Dogs",
+    "slug": "crif-dogs",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "113 St Marks Pl, New York, NY 10009",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 614-0386",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "12:00 PM \u2013 4:00 AM (varies)"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Creative hot dogs, especially the \u201cCrispy Pig\u201d and \u201cSlippery Slope\u201d"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:32.058634"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:32.058637",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Soothr",
+    "slug": "soothr",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "228 E 10th St, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 677-2222",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "5:00 PM \u2013 10:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Thai-inspired small plates, salads, and quick bites"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:32.058653"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:32.058654",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Estela",
+    "slug": "estela",
+    "category": "casual-dining",
+    "subcategories": [
+      "sandwich"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "47 E Houston St, New York, NY 10012",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 254-3000",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "5:30 PM \u2013 10:30 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$$",
+      "signature_dishes": [
+        "Seasonal salads, sandwiches, and contemporary American lunch"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:32.058668"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:32.058669",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Smithereens",
+    "slug": "smithereens",
+    "category": "casual-dining",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "228 E 10th St, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 677-2222",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "5:00 PM \u2013 10:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Seafood-focused small plates, salads, and quick bites"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "afternoon"
+      ],
+      "occasions": [
+        "lunch",
+        "business-lunch",
+        "quick-bite"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "afternoon in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:32.058682"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:32.058684",
+    "time_context": "afternoon"
+  },
+  {
+    "name": "Ops \u2013 East Village",
+    "slug": "ops-\u2013-east-village",
+    "category": "bars-cocktails",
+    "subcategories": [
+      "pizza",
+      "wine-bar"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "101 Avenue A, New York, NY 10009",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 228-2222",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "5:00 PM \u2013 11:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Wine selection, tavern-style pizza (especially Hawaiian), approachable yet edgy wine program"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:49.576681"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:49.576690",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Popina",
+    "slug": "popina",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "101 Avenue A, New York, NY 10009",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 228-2222",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "5:00 PM \u2013 11:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Rewarding happy hour, Champagne, Italian-inspired small plates"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:49.576724"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:49.576734",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "The Blind Pig",
+    "slug": "the-blind-pig",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "21 E 1st St, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 228-1555",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "4:00 PM \u2013 2:00 AM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Outdoor seating, beer selection, TVs, relaxed vibe"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:49.576758"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:49.576760",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "McSorley\u2019s Old Ale House",
+    "slug": "mcsorley\u2019s-old-ale-house",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "15 E 7th St, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 473-9148",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "10:00 AM \u2013 10:00 PM (varies)"
+    },
+    "experience": {
+      "price_range": "$",
+      "signature_dishes": [
+        "Historic pub, only two types of beer (light/dark), cash only, old-school NYC charm"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:49.576773"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:49.576775",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Doc Holliday\u2019s",
+    "slug": "doc-holliday\u2019s",
+    "category": "bars-cocktails",
+    "subcategories": [],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "322 E 6th St, New York, NY 10003",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(212) 475-1010",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "4:00 PM \u2013 2:00 AM (varies)"
+    },
+    "experience": {
+      "price_range": "$$",
+      "signature_dishes": [
+        "Jukebox (NY punk/indie), friendly staff, casual after-work drinks"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:49.576791"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:49.576793",
+    "time_context": "evening_casual"
+  },
+  {
+    "name": "Cactus Wren",
+    "slug": "cactus-wren",
+    "category": "bars-cocktails",
+    "subcategories": [
+      "cocktails",
+      "wine-bar"
+    ],
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        0,
+        0
+      ]
+    },
+    "address": {
+      "street": "63 Clinton St, New York, NY 10002 (Lower East Side, near East Village)",
+      "city": "New York",
+      "state": "NY",
+      "zip": "",
+      "neighborhood": "East Village",
+      "borough": "Manhattan"
+    },
+    "contact": {
+      "phone": "(646) 678-5555",
+      "website": "",
+      "reservations_url": "",
+      "social": {}
+    },
+    "hours": {
+      "note": "5:00 PM \u2013 12:00 AM (varies)"
+    },
+    "experience": {
+      "price_range": "$$$",
+      "signature_dishes": [
+        "Creative wine bar, indulgent plates, laid-back jazz vibe"
+      ],
+      "ambiance": []
+    },
+    "best_for": {
+      "time_of_day": [
+        "evening"
+      ],
+      "occasions": [
+        "after-work",
+        "casual-drinks",
+        "happy-hour"
+      ],
+      "weather": [
+        "any"
+      ],
+      "group_size": [
+        2,
+        4
+      ]
+    },
+    "prestige": {
+      "score": 0
+    },
+    "sources": [
+      {
+        "type": "perplexity_discovery",
+        "query": "evening_casual in East Village",
+        "citations": [],
+        "retrieved_at": "2025-11-23T10:46:49.576805"
+      }
+    ],
+    "created_at": "2025-11-23T10:46:49.576806",
+    "time_context": "evening_casual"
+  }
+]

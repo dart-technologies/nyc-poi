@@ -1,37 +1,34 @@
-# Scripts Directory
+# Scripts Directory 🛠️
 
-Data processing and utility scripts for the hackathon.
+Operational and utility scripts for the NYC POI Concierge.
 
-## Scripts
+## 📂 Structure
 
-### Curation
-- **`curate_restaurants.py`** - Run Tavily searches and extract POIs
-- **`enrich_pois.py`** - Enrich POIs with additional metadata
-- **`validate_quality.py`** - Validate prestige markers
+### `data_pipeline/`
+- **`import_pois.py`**: Direct import to MongoDB
+- **`import_discovered_pois.py`**: Import Tavily-discovered data
 
-### MongoDB
-- **`import_to_mongodb.py`** - Bulk import POIs to MongoDB Atlas
-- **`create_indexes.py`** - Create geospatial and vector search indexes
-- **`test_queries.py`** - Test MongoDB aggregation pipelines
+### `verification/`
+- **`check_fine_dining.py`**: Verify Michelin/prestige data
+- **`check_neighborhoods.py`**: Analyze neighborhood coverage
+- **`check_data.py`**: General data inspection
 
-### Embeddings
-- **`generate_embeddings.py`** - Generate OpenAI embeddings for POIs
-- **`batch_embed.py`** - Batch processing for cost efficiency
+### `maintenance/`
+- **`fix_prestige_scores.py`**: Patch prestige scores for top venues
 
-### Utilities
-- **`geocode_addresses.py`** - Convert addresses to coordinates
-- **`deduplicate_pois.py`** - Remove duplicate venues
-- **`export_sample.py`** - Export sample data for testing
+### `ops/`
+- **`diagnose_mcp_mongo.py`**: Full system diagnostic tool
+- **`check-backend-config.sh`**: Verify backend URL configuration
+- **`get_ngrok_url.sh`**: Retrieve current ngrok tunnel URL
 
-## Usage
+### `deployment/`
+- **`deploy_to_cloud.sh`**: Deploy MCP server to cloud
 
+### `dev/`
+- **`start_local_server.sh`**: Start local development server
+
+## 🚀 Usage
+Run scripts from the project root:
 ```bash
-# Example: Curate 30 Michelin restaurants
-python scripts/curate_restaurants.py --category fine-dining --limit 30
-
-# Example: Import to MongoDB
-python scripts/import_to_mongodb.py --file data/processed/pois_final_100.json
+python3 scripts/verification/check_fine_dining.py
 ```
-
-## Note
-Scripts are MVP-focused and may not have production-grade error handling.

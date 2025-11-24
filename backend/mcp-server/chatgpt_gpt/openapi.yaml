@@ -1,0 +1,355 @@
+openapi: 3.1.0
+info:
+  title: NYC POI Concierge MCP Server
+  description: |
+    Restaurant recommendations with prestige-first curation using MongoDB, 
+    Michelin stars, James Beard awards, and contextual intelligence.
+  version: 1.0.0
+servers:
+  - url: https://15csm9y282hdasy6yvu2l7244j9vcrfc.deployments.mcp-agent.com
+    description: MCP Cloud Production Deployment
+
+paths:
+  /tools/call:
+    post:
+      operationId: callMCPTool
+      summary: Execute MCP tool with arguments
+      description: |
+        Call any available MCP tool on the NYC POI server. 
+        Available tools: query_pois, get_contextual_recommendations
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                tool:
+                  type: string
+                  description: Name of the MCP tool to execute
+                  enum:
+                    - query_pois
+                    - get_contextual_recommendations
+                arguments:
+                  type: object
+                  description: Tool-specific arguments (see schemas below)
+              required:
+                - tool
+                - arguments
+            examples:
+              query_michelin:
+                summary: Find Michelin 3-star restaurants
+                value:
+                  tool: query_pois
+                  arguments:
+                    latitude: 40.7580
+                    longitude: -73.9851
+                    michelin_stars: [3]
+                    limit: 10
+              contextual_date_night:
+                summary: Date night recommendations
+                value:
+                  tool: get_contextual_recommendations
+                  arguments:
+                    latitude: 40.7580
+                    longitude: -73.9851
+                    occasion: date-night
+                    datetime: "2025-11-23T19:00:00"
+                    budget: "$$$"
+                    limit: 5
+
+      responses:
+        '200':
+          description: Tool executed successfully
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  result:
+                    type: object
+                    description: Tool-specific result
+                    oneOf:
+                      - $ref: '#/components/schemas/QueryPOIsResponse'
+                      - $ref: '#/components/schemas/ContextualRecsResponse'
+        '400':
+          description: Invalid request (missing required args)
+        '500':
+          description: Server error
+
+components:
+  schemas:
+    # Tool Arguments Schemas
+    QueryPOIsArgs:
+      type: object
+      description: Search POIs with filters
+      properties:
+        latitude:
+          type: number
+          description: User's current latitude
+          example: 40.7580
+        longitude:
+          type: number
+          description: User's current longitude
+          example: -73.9851
+        radius_meters:
+          type: number
+          description: Search radius in meters
+          default: 2000
+          example: 2000
+        categories:
+          type: array
+          description: Filter by POI categories
+          items:
+            type: string
+            enum:
+              - fine-dining
+              - casual-dining
+              - bars-cocktails
+          example: ["fine-dining"]
+        min_prestige_score:
+          type: number
+          description: Minimum prestige score (0-150)
+          minimum: 0
+          maximum: 150
+          example: 100
+        michelin_stars:
+          type: array
+          description: Filter by Michelin star count
+          items:
+            type: integer
+            enum: [1, 2, 3]
+          example: [2, 3]
+        limit:
+          type: integer
+          description: Maximum results to return
+          default: 10
+          minimum: 1
+          maximum: 50
+          example: 10
+      required:
+        - latitude
+        - longitude
+
+    ContextualRecsArgs:
+      type: object
+      description: Get context-aware recommendations
+      properties:
+        latitude:
+          type: number
+          description: User's current latitude
+          example: 40.7580
+        longitude:
+          type: number
+          description: User's current longitude
+          example: -73.9851
+        radius_meters:
+          type: number
+          description: Search radius in meters
+          default: 3000
+          example: 3000
+        datetime:
+          type: string
+          format: date-time
+          description: Target date and time (ISO 8601)
+          example: "2025-11-23T19:00:00"
+        weather:
+          type: string
+          description: Current or forecasted weather
+          enum:
+            - sunny
+            - rain
+            - cold
+            - snow
+            - any
+          example: "rain"
+        occasion:
+          type: string
+          description: Type of dining occasion
+          enum:
+            - date-night
+            - business-dinner
+            - casual
+            - celebration
+            - drinks
+            - late-night
+            - brunch
+            - lunch
+          example: "date-night"
+        group_size:
+          type: integer
+          description: Number of people in party
+          default: 2
+          minimum: 1
+          maximum: 20
+          example: 2
+        budget:
+          type: string
+          description: Price range preference
+          enum:
+            - "$"     # Under $15 per person
+            - "$$"    # $15-40
+            - "$$$"   # $40-100
+            - "$$$$"  # $100+
+            - any
+          example: "$$$"
+        limit:
+          type: integer
+          description: Maximum recommendations
+          default: 5
+          minimum: 1
+          maximum: 20
+          example: 5
+      required:
+        - latitude
+        - longitude
+
+    # Response Schemas
+    QueryPOIsResponse:
+      type: object
+      properties:
+        pois:
+          type: array
+          items:
+            $ref: '#/components/schemas/POI'
+        count:
+          type: integer
+          description: Number of POIs returned
+
+    ContextualRecsResponse:
+      type: object
+      properties:
+        recommendations:
+          type: array
+          items:
+            $ref: '#/components/schemas/POI'
+        explanation:
+          type: string
+          description: Why these POIs were recommended
+        context:
+          type: object
+          description: Context used for recommendations
+
+    # POI Entity Schema
+    POI:
+      type: object
+      properties:
+        _id:
+          type: string
+          description: MongoDB ObjectId
+        name:
+          type: string
+          description: Restaurant name
+          example: "Le Bernardin"
+        category:
+          type: string
+          description: Primary category
+          enum:
+            - fine-dining
+            - casual-dining
+            - bars-cocktails
+        subcategories:
+          type: array
+          items:
+            type: string
+          example: ["french", "seafood"]
+        location:
+          type: object
+          properties:
+            type:
+              type: string
+              enum: ["Point"]
+            coordinates:
+              type: array
+              items:
+                type: number
+              minItems: 2
+              maxItems: 2
+              description: "[longitude, latitude]"
+              example: [-73.9826, 40.7614]
+        address:
+          type: object
+          properties:
+            street:
+              type: string
+            city:
+              type: string
+            state:
+              type: string
+            zip:
+              type: string
+            neighborhood:
+              type: string
+            borough:
+              type: string
+        prestige:
+          type: object
+          properties:
+            score:
+              type: number
+              description: Prestige score (0-150)
+            michelin_stars:
+              type: integer
+              enum: [1, 2, 3]
+            michelin_since:
+              type: integer
+              description: Year awarded Michelin star
+            james_beard_awards:
+              type: array
+              items:
+                type: string
+            nyt_stars:
+              type: integer
+              minimum: 1
+              maximum: 4
+        contact:
+          type: object
+          properties:
+            phone:
+              type: string
+            website:
+              type: string
+              format: uri
+            reservations_url:
+              type: string
+              format: uri
+        experience:
+          type: object
+          properties:
+            price_range:
+              type: string
+              enum: ["$", "$$", "$$$", "$$$$"]
+            avg_meal_cost:
+              type: number
+              description: Average cost per person in USD
+            dress_code:
+              type: string
+            reservation_difficulty:
+              type: string
+              enum: ["none", "easy", "moderate", "high", "very-high"]
+            signature_dishes:
+              type: array
+              items:
+                type: string
+            ambiance:
+              type: array
+              items:
+                type: string
+        best_for:
+          type: object
+          properties:
+            occasions:
+              type: array
+              items:
+                type: string
+            time_of_day:
+              type: array
+              items:
+                type: string
+            weather:
+              type: array
+              items:
+                type: string
+        distance:
+          type: number
+          description: Distance from user in meters (calculated)
