@@ -2,7 +2,7 @@
   "expo": {
     "name": "NYC Concierge",
     "slug": "nyc-poi",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "nycpoi",

@@ -381,79 +381,84 @@ async def refresh_poi_data(poi_id: str, force: bool = False) -> dict:
 # ============================================================================
 # HTTP Routes for Mobile App Compatibility
 # ============================================================================
+# NOTE: These routes are commented out for MCP Cloud deployment compatibility.
+# MCPApp only supports @app.tool decorators, not FastAPI-style @app.get/@app.post.
+# For HTTP API access, use http_server.py which wraps the MCP tools with FastAPI.
+# ============================================================================
 
-@app.get("/health")
-async def health_check():
-    """Health check endpoint for monitoring"""
-    return {
-        "status": "healthy",
-        "service": "nyc-poi-concierge",
-        "timestamp": datetime.now().isoformat()
-    }
-
-
-@app.post("/query-pois")
-async def http_query_pois(
-    latitude: float,
-    longitude: float,
-    radius_meters: int = 2000,
-    category: str | None = None,
-    min_prestige_score: int = 0,
-    limit: int = 10,
-    occasion: str | None = None,
-    time_of_day: str | None = None,
-    weather_condition: str | None = None,
-):
-    """HTTP wrapper for query_pois MCP tool"""
-    return await query_pois(
-        latitude=latitude,
-        longitude=longitude,
-        radius_meters=radius_meters,
-        category=category,
-        min_prestige_score=min_prestige_score,
-        limit=limit,
-        occasion=occasion,
-        time_of_day=time_of_day,
-        weather_condition=weather_condition,
-    )
+# @app.get("/health")
+# async def health_check():
+#     """Health check endpoint for monitoring"""
+#     return {
+#         "status": "healthy",
+#         "service": "nyc-poi-concierge",
+#         "timestamp": datetime.now().isoformat()
+#     }
 
 
-@app.post("/recommendations")
-async def http_recommendations(
-    latitude: float,
-    longitude: float,
-    radius_meters: int = 3000,
-    occasion: str | None = None,
-    weather_condition: str | None = None,
-    time_of_day: str | None = None,
-    limit: int = 5,
-    group_size: int = 2,
-    budget: str | None = None,
-):
-    """HTTP wrapper for get_contextual_recommendations MCP tool"""
-    return await get_contextual_recommendations(
-        latitude=latitude,
-        longitude=longitude,
-        radius_meters=radius_meters,
-        occasion=occasion,
-        weather_condition=weather_condition,
-        time_of_day=time_of_day,
-        limit=limit,
-        group_size=group_size,
-        budget=budget,
-    )
+# @app.post("/query-pois")
+# async def http_query_pois(
+#     latitude: float,
+#     longitude: float,
+#     radius_meters: int = 2000,
+#     category: str | None = None,
+#     min_prestige_score: int = 0,
+#     limit: int = 10,
+#     occasion: str | None = None,
+#     time_of_day: str | None = None,
+#     weather_condition: str | None = None,
+# ):
+#     """HTTP wrapper for query_pois MCP tool"""
+#     return await query_pois(
+#         latitude=latitude,
+#         longitude=longitude,
+#         radius_meters=radius_meters,
+#         category=category,
+#         min_prestige_score=min_prestige_score,
+#         limit=limit,
+#         occasion=occasion,
+#         time_of_day=time_of_day,
+#         weather_condition=weather_condition,
+#     )
 
 
-@app.get("/poi/{poi_id}/freshness")
-async def http_check_freshness(poi_id: str):
-    """HTTP endpoint for POI freshness check"""
-    return await check_poi_freshness(poi_id)
+# @app.post("/recommendations")
+# async def http_recommendations(
+#     latitude: float,
+#     longitude: float,
+#     radius_meters: int = 3000,
+#     occasion: str | None = None,
+#     weather_condition: str | None = None,
+#     time_of_day: str | None = None,
+#     limit: int = 5,
+#     group_size: int = 2,
+#     budget: str | None = None,
+# ):
+#     """HTTP wrapper for get_contextual_recommendations MCP tool"""
+#     return await get_contextual_recommendations(
+#         latitude=latitude,
+#         longitude=longitude,
+#         radius_meters=radius_meters,
+#         occasion=occasion,
+#         weather_condition=weather_condition,
+#         time_of_day=time_of_day,
+#         limit=limit,
+#         group_size=group_size,
+#         budget=budget,
+#     )
 
 
-@app.post("/poi/{poi_id}/refresh")
-async def http_refresh_poi(poi_id: str, force: bool = False):
-    """HTTP endpoint for POI data refresh"""
-    return await refresh_poi_data(poi_id, force)
+# @app.get("/poi/{poi_id}/freshness")
+# async def http_check_freshness(poi_id: str):
+#     """HTTP endpoint for POI freshness check"""
+#     return await check_poi_freshness(poi_id)
+
+
+# @app.post("/poi/{poi_id}/refresh")
+# async def http_refresh_poi(poi_id: str, force: bool = False):
+#     """HTTP endpoint for POI data refresh"""
+#     return await refresh_poi_data(poi_id, force)
+
 
 
 if __name__ == "__main__":
